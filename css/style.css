@@ -138,8 +138,15 @@ ul{
   list-style-type: none;
 }
 
-.subheading, .meta{
+.subheading {
   font-size:18px;
+
+}
+
+.meta{
+  font-size: 18px;
+  font-weight: lighter;
+  font-style:italic;
 }
 
 blockquote{
@@ -179,10 +186,50 @@ footer ul{
 }
 
 .post-img{
+  font-family: Ubuntu, Arial, 'libra sans', sans-serif;
+font-size: 16px;
+font-weight: 300;
+color:#fff;
+background-position: center;
+  background-size: cover;
+  height:500px ;
+  width:100%;
+  background-repeat: no-repeat;
+  padding-top: 150px;
+
+
+}
+
+.sign{
   height: 350px;
   width:100%;
   padding-top: 50px;
   border-radius:2%;
+}
+
+.highlight{
+  font-family: Ubuntu, Arial, 'libra sans', sans-serif;
+font-size: 16px;
+font-weight: 300;
+color:#fff;
+height: 200px;
+width: 100%;
+background-position: left;
+  background-size: cover;
+}
+
+.div_content{
+  text-align:center;
+  line-height: normal;
+  text-transform: capitalize;
+  font-size:30px;
+  font-weight: bold;
+  padding-top: 80px;
+}
+
+.div_link :hover{
+  text-decoration: none;
+
 }
 
 footer ul h4{
