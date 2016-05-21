@@ -1,0 +1,206 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+
+@media only screen and (max-width: 500px) {
+  .notice{
+    min-width: 50%;
+  }
+}
+
+@media only screen and (max-width: 430px) {
+  .notice{
+    min-width: 70%;
+  }
+}
+
+@media only screen and (max-width: 310px) {
+  .notice{
+    min-width: 90%;
+  }
+}
+
+@media only screen and (min-width:1200px){
+  .site_name{
+    font-size: 25px;
+  }
+}
+
+
+html, body{
+  	height: 100%;
+
+}
+
+html{
+  margin:0;
+  padding: 0;
+}
+
+body{
+
+margin:0;
+padding-bottom:0;
+padding-right:0;
+padding:left:0;
+font-size: 20px;
+font-family: 'Lora', 'Times New Roman', serif;
+}
+
+.container-fluid{
+  margin-top: 30px;
+  margin-right: auto;
+  margin-left:auto;
+
+}
+.row{
+  padding: 0 15px;
+}
+
+.criteria{
+  padding: 10px;
+
+}
+
+
+.criteria a{
+  font-size: 14px;
+}
+
+.post-container > p {
+    line-height: 1.5;
+    margin: 30px 0;
+  }
+
+.wrapper{
+  margin:0;
+  padding:0;
+  margin-top: 2%;
+  font-size: 20px;
+}
+
+.main{
+  padding:0 5%;
+}
+
+.post-container{
+
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-size: 20px;
+  color: #404040;
+
+}
+
+.current{
+  background-color:#000531;
+  color: #fff;
+}
+
+
+
+header{
+  margin: 0 auto;
+  text-align: center;
+}
+
+nav{
+padding-top:30px;
+  margin: 0 auto;
+}
+
+.nav{
+  margin:0;
+  padding:0;
+
+  list-style-type: none;
+
+}
+.nav > li{
+  display: inline-block;
+
+
+}
+
+
+
+.nav a{
+  text-decoration: none;
+  padding: 5px;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 1px;
+
+
+}
+
+ul{
+  padding:0;
+  margin:0;
+  list-style-type: none;
+}
+
+.subheading, .meta{
+  font-size:18px;
+}
+
+blockquote{
+color: #808080;
+font-style: italic;
+margin-left: 3%;
+}
+
+.well{
+  background-color: #fafafa;
+
+}
+
+hr{
+  width: 20%;
+  margin-left: 0;
+}
+
+
+footer{
+
+	color:#fff;
+	background-color: #000 ;
+	padding:0;
+margin-top:10%;
+
+
+}
+
+footer ul{
+	padding:0;
+	margin:0;
+}
+
+.contact{
+	padding-top:0.7%;
+}
+
+.post-img{
+  height: 350px;
+  width:100%;
+  padding-top: 50px;
+  border-radius:2%;
+}
+
+footer ul h4{
+	padding: 0.5%;
+}
+footer ul li{
+	padding:0.5%;
+	display: inline-block;
+}
+
+
+
+footer .copyright{
+padding-bottom:0.3%;
+	text-align:right;
+	font-weight:lighter;
+	font-size:10px;
+	padding-right:0.3%;
+	margin:0 10px;
+
+}

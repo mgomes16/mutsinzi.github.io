@@ -1,0 +1,23 @@
+---
+layout: default
+
+---
+
+<div class="wrapper">
+<h1> On the menu </h1>
+<hr>
+
+
+<h3> Music Reviews </h3>
+
+<ul>
+  {% for post in site.categories.music-reviews %}
+  <li>
+    <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
+  <p>{{post.meta}}</p>
+
+  </li>
+  {% endfor %}
+</ul>
+
+</div>

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<h1> Literature </h1>
+<hr>
+
+<header class="img-responsive post-img" style="background-image: url('{{site.baseurl}}/img/swirl_pattern.png')">
+<div class="notice" style=
+'background-color:purple; color:#fff; width:40%; padding: 20px; margin-right:auto; margin-left:auto; border-radius: 2%' ><h1>COMING SOON</h1></div>
+<h3>Sorry for the inconvenience</h3>
+
+</header>
+
+<ul>
+  {% for post in site.categories.literature limit:4 %}
+  <li>
+  <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
+  <p>{{post.meta}}</p>
+  </li>
+  {% endfor %}
+</ul>
