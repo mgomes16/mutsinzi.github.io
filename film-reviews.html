@@ -5,7 +5,7 @@ layout: default
 <h1> Film Reviews </h1>
 <hr>
 
-<header class="img-responsive post-img" style="background-image: url('{{site.baseurl}}/img/swirl_pattern.png')">
+<header class="img-responsive post-img" style="background-image: url('{{site.github.url}}/img/swirl_pattern.png')">
 <div class="notice" style=
 "background-color:purple; color:#fff; width:40%; padding: 20px; margin-right:auto; margin-left:auto; border-radius: 2%" ><h1>COMING SOON</h1></div>
 <h3>Sorry for the inconvenience</h3>
@@ -15,7 +15,7 @@ layout: default
 <ul>
   {% for post in site.categories.film-reviews limit:4 %}
   <li>
-  <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
+  <a href="{{ post.url | prepend: site.github.url }}">{{post.title}}</a>
   <p>{{post.meta}}</p>
   </li>
   {% endfor %}
