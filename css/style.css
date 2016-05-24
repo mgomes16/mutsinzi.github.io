@@ -10,6 +10,9 @@
   .notice{
     min-width: 70%;
   }
+  .well{
+    display: none;
+  }
 }
 
 @media only screen and (max-width: 310px) {
