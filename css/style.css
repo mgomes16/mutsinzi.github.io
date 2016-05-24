@@ -60,6 +60,7 @@ font-family: 'Lora', 'Times New Roman', serif;
 
 .criteria{
   padding: 10px;
+  list-style-type: none;
 
 }
 
@@ -159,7 +160,9 @@ margin-left: 3%;
 }
 
 .well{
-  background-color: #fafafa;
+  background-color: rgb(0, 0, 0);
+
+  color: #fff;
 
 }
 
