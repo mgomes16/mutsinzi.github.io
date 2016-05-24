@@ -191,6 +191,10 @@ footer ul{
 	padding-top:0.7%;
 }
 
+.contact a{
+  font-family:"Lota";
+}
+
 .post-img{
   font-family: Ubuntu, Arial, 'libra sans', sans-serif;
 font-size: 16px;
