@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<h1>
+<h1 class="page-category">
   Music Reviews
 </h1>
 <hr>
 
-<ul>
+<ul class = "music-reviews-ul">
   {% for post in site.categories.music-reviews limit:4 %}
   <li>
 
       <a class= "div_link" href="{{ post.url | prepend: site.github.url }}">
-        <div class="highlight" style="background-image: url('{{site.github.url}}/img/{{post.image}}')">
+        <div class="music-reviews-highlight" style="background-image: url('{{site.github.url}}/img/{{post.image}}')">
 
    <h1 class="div_content">{{post.title}}</h1>
           <p>{{post.meta}}</p>
