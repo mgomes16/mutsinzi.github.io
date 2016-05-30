@@ -14,11 +14,6 @@ body{
 }
 
 
-@media only screen and (max-width: 500px) {
-  .notice{
-    min-width: 50%;
-  }
-}
 
 @media only screen and (max-width: 1200px) {
   .highlight{
@@ -26,18 +21,9 @@ body{
   }
 }
 
-@media only screen and (max-width: 430px) {
-  .notice{
-    min-width: 70%;
-  }
 
-}
 
-@media only screen and (max-width: 310px) {
-  .notice{
-    min-width: 90%;
-  }
-}
+
 
 @media only screen and (max-width: 340px) {
   .div_content{
@@ -62,6 +48,10 @@ html{
   padding: 0;
 }
 
+.container{
+  width: inherit !important;
+}
+
 body{
 
 margin:0 auto;
@@ -81,6 +71,7 @@ font-family: 'Lora', 'Times New Roman', serif;
 .row{
   padding: 0;
 }
+
 
 
 
@@ -163,6 +154,10 @@ nav{
 padding-top:20px;
 
   padding-bottom: 20px;
+}
+
+nav img{
+  margin: 0 auto;
 }
 
 .nav{
@@ -267,6 +262,7 @@ font-weight: 300;
 color:#fff;
 height: 200px;
 width: 100%;
+
 background-position: left;
 background-size: cover;
 }
@@ -310,12 +306,13 @@ h1, h3{
 .div_content{
   text-align:center !important;
   line-height: normal;
-  margin-left: 35%;
+  width: inherit;
+  margin: 0 auto;
   text-transform: capitalize;
   font-size:20px;
   text-decoration: none !important;
   font-weight: bold;
-padding-top: 10%;
+padding-top: 20%;
 }
 
 .music-reviews{
@@ -382,4 +379,25 @@ text-align: center;
 
 	margin:0 10px;
 
+}
+
+.about-us{
+  width: inherit;
+  padding:40px 0 50px 0;
+  font-size: 16px;
+}
+.about-us h4{
+  color:#333333;
+  margin-top: 20px;
+  font-family: 'Helvetica Nueu';
+  font-weight: 400;
+  font-size: 26px;
+}
+
+.about-us .row{
+  margin: 0 auto;
+  padding: 50px 0 60px 0;
+}
+.team i{
+  color: #333333;
 }
