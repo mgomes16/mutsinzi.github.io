@@ -6,11 +6,14 @@
   }
 }
 
-@media only screen and (min-width: 890px){
+
+
+@media only screen and (min-width: 1000px){
 body{
-  width: 900px;
+  width: 960px;
   margin: 0 auto !important;
 }
+
 }
 
 
@@ -50,13 +53,14 @@ html{
 
 .container{
   width: inherit !important;
+  padding: 0;
 }
 
 body{
 
 margin:0 auto;
 padding:0;
-background-color: #ddd;
+
 font-size: 20px;
 font-family: 'Lora', 'Times New Roman', serif;
 }
@@ -69,7 +73,67 @@ font-family: 'Lora', 'Times New Roman', serif;
 
 }
 .row{
+  width: inherit;
   padding: 0;
+  margin: 0;
+}
+header{
+  margin: 0 auto;
+  text-align: center;
+}
+
+nav{
+padding-top:20px;
+padding-bottom: 20px;
+
+
+}
+
+nav img{
+  margin: 0 auto;
+
+
+}
+
+.nav{
+
+  padding:0;
+
+  list-style-type: none;
+
+}
+.nav > li{
+  display: inline-block;
+
+
+}
+
+
+
+
+
+.nav a{
+  text-decoration: none;
+  padding: 5px;
+  margin-bottom: 1%;
+  background-color: #000;
+  text-transform: uppercase;
+  font-size: 12px;
+  color: #fff;
+  font-weight: 800;
+  letter-spacing: 1px;
+
+
+}
+
+.nav a:hover{
+  background-color: #333333 !important;
+  color: #fff !important;
+}
+ul{
+  padding:0;
+  margin:0;
+  list-style-type: none;
 }
 
 
@@ -135,6 +199,8 @@ background-position: center;
 
 }
 
+
+
 .current{
   background-color:#000531;
   color: #fff;
@@ -142,64 +208,7 @@ background-position: center;
 
 
 
-header{
-  margin: 0 auto;
-  text-align: center;
-}
 
-nav{
-
-
-
-padding-top:20px;
-
-  padding-bottom: 20px;
-}
-
-nav img{
-  margin: 0 auto;
-}
-
-.nav{
-  margin:0;
-  padding:0;
-
-  list-style-type: none;
-
-}
-.nav > li{
-  display: inline-block;
-
-
-}
-
-
-
-
-
-.nav a{
-  text-decoration: none;
-  padding: 5px;
-  margin-bottom: 1%;
-  background-color: #000;
-  text-transform: uppercase;
-  font-size: 12px;
-  color: #fff;
-  font-weight: 800;
-  letter-spacing: 1px;
-
-
-}
-
-.nav a:hover{
-  background-color: #333333 !important;
-  color: #fff !important;
-}
-ul{
-  padding:0;
-  margin:0;
-  list-style-type: none;
-}
 
 .subheading {
   font-size:18px;
@@ -222,6 +231,10 @@ hr{
   margin-left: 0;
 }
 
+.category-heading{
+  padding: 10px 5px;
+  color: #fff;
+}
 .content-category{
   font-size: 20px;
   font-family: 'Ubuntu';
@@ -274,16 +287,13 @@ font-weight: 300;
 color:#fff;
 height: 200px;
 width: 100%;
-padding: 0 15%;
+/*padding: 0 15%;*/
 background-position: center center;
 background-size: cover;
 
 }
 
-.music-reviews-ul{
-  margin-top: 5%;
-  padding: 0 20%;
-}
+
 
 .post-container h1{
   width: 100%;
@@ -315,6 +325,10 @@ h1, h3{
 padding-top: 20%;
 }
 
+.div_content:hover{
+  text-decoration: none !important;
+}
+
 .music-reviews{
 
   width: 100%;
@@ -322,6 +336,7 @@ padding-top: 20%;
 
 .div_link{
   text-decoration: none !important;
+  color: #fff;
 }
 
 .div_link :hover{
@@ -400,4 +415,14 @@ text-align: center;
 }
 .team i{
   color: #333333;
+  font-size: 20px;
+}
+
+.team img{
+  /*border-radius: 100%;*/
+}
+
+.team h3{
+  font-size: 20px;
+  width: 100%;
 }

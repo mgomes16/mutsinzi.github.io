@@ -3,31 +3,40 @@ layout: default
 
 ---
 
+
 <div class="wrapper">
+<!-- {% include daily_treat.md %} -->
 
 
-<div class="music-reviews">
+<!-- music section -->
+
+
 
 
 <div class = "row">
   <div class = "container">
+
   {% for post in site.categories.music-reviews limit: 4 %}
-    <a class= "div_link"  href="{{ post.url | prepend: site.github.url }}">
-  <div class = "col-lg-3 col-md-4 col-sm-5 post">
+<a class= "div_link"  href="{{ post.url | prepend: site.github.url }}">    <div class = "col-lg-3 col-md-4 col-sm-5 post">
+  <!-- <h4 class="category-heading" style="text-transform: uppercase; background-color:#000">Music</h4> -->
+
+
 
         <div class="highlight" style="background-image: url('{{site.github.url}}/img/{{post.image}}')">
-  <h1 class="div_content">{{post.title}}</h1>
+<h1 class="div_content">{{post.title}}</h1>
 
 </div>
+
 
 
 
   </div>
-  </a>
+ </a>
   {% endfor %}
-</div>
+
 </div>
 
 </div>
 </div>
+<!-- end of music section  -->
 </div>
