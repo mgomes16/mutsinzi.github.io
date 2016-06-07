@@ -2,21 +2,30 @@
 layout: default
 ---
 
-<h1 class="page-category"> Literature </h1>
+<h1 class="page-category">
+  Literature
+</h1>
 <hr>
+<div class="row">
+  <div class="container">
 
-<section class="text-center">
-<h1>COMING SOON</h1>
-<h3>Sorry for the inconvenience</h3>
-</section>
-
-
-
-<ul>
   {% for post in site.categories.literature limit:4 %}
-  <li>
-  <a href="{{ post.url | prepend: site.github.url }}">{{post.title}}</a>
-  <p>{{post.meta}}</p>
-  </li>
+<div class = "col-md-4">
+
+
+        <div class="music-reviews-highlight" style="background-image: url('{{site.github.url}}/img/{{post.image}}')">
+
+  <a class= "div_link" href="{{ post.url | prepend: site.github.url }}"> <h1 class="div_content">{{post.title}}</h1>
+          <p>{{post.meta}}</p>
+        </a>
+
+    </div>
+
+<hr/>
+
+
+</div>
   {% endfor %}
-</ul>
+</div>
+</div>
+
