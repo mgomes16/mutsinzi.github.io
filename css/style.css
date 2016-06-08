@@ -305,6 +305,10 @@ h1, h3{
   width:25%;
 
 }
+
+.post-text{
+  margin: 30px 0 20px 0;
+}
 .highlight-heading{
   font-family:'Ubuntu';
   font-size: 20px;
