@@ -29,16 +29,27 @@ Born in Chile, Neruda wrote his poems in Spanish but his works have been transla
 
 <blockquote cite="https://en.wikipedia.org/wiki/Pablo_Neruda">
   from "Full Woman, Fleshly Apple, Hot Moon"
-
+ <br/>
+ <br/>
   Full woman, fleshly apple, hot moon,
+  <br/>
   thick smell of seaweed, crushed mud and light,
+  <br/>
   what obscure brilliance opens between your columns?
+  <br/>
   What ancient night does a man touch with his senses?
+  <br/>
+  <br/>
 
   Loving is a journey with water and with stars,
+  <br/>
   with smothered air and abrupt storms of flour:
+  <br/>
   loving is a clash of lightning-bolts
+  <br/>
   and two bodies defeated by a single drop of honey.
+  <br/>
+  <br/>
 
   Selected Poems translated by Stephen Mitchell (1997)
 </blockquote>
