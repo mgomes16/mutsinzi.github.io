@@ -39,4 +39,29 @@ layout: default
 </div>
 </div>
 <!-- end of music section  -->
+
+<!-- Literature -->
+<div class="row">
+  <div class="container">
+
+  {% for post in site.categories.literature limit:4 %}
+<div class = "col-md-4">
+
+
+        <div class="music-reviews-highlight" style="background-image: url('{{site.github.url}}/img/{{post.image}}')">
+
+  <a class= "div_link" href="{{ post.url | prepend: site.github.url }}"> <h1 class="div_content">{{post.title}}</h1>
+          <p>{{post.meta}}</p>
+        </a>
+
+    </div>
+
+<hr/>
+
+
+</div>
+  {% endfor %}
+</div>
+</div>
+<!-- end of literature section -->
 </div>
