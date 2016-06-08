@@ -4,7 +4,7 @@ author: Mutsinzi
 title: Pablo Neruda
 subtitle: "Tonight I can write the saddest lines"
 category: literature
-image: neruda.jpg
+image: kanura_cover.jpg
 image-source: "http://www.losandes.com.ar/files/image/2013/11/8/564849.jpg"
 ---
 
