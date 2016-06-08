@@ -23,7 +23,8 @@ I felt that there was something in the way the man had put his words together th
 
 > I want to do with you what spring does with cherry trees
 
-His lines trigger thought, they stop you in your tracks and force you to contemplate them, they demand to be consumed attentively. Mysterious, I know. Neruda wrote his first poems in 1914, when he was only 10 years old. Neruda hadn't always been known as Neruda however, he was born Ricardo Eliécer Neftalí Reyes Basoalto but used Pablo Neruda as his pen name. Later, Pablo Neruda became his legal name and he went on to win the Nobel Prize for Literature in 1971. 
+His lines trigger thought, they stop you in your tracks and force you to contemplate them, they demand to be consumed attentively. 
+Neruda wrote his first poems in 1914, when he was only 10 years old. Neruda hadn't always been known as Neruda however, he was born Ricardo Eliécer Neftalí Reyes Basoalto but used Pablo Neruda as his pen name. Later, Pablo Neruda became his legal name and he went on to win the Nobel Prize for Literature in 1971. 
  
 Born in Chile, Neruda wrote his poems in Spanish but his works have been translated elegantly into English and needless to say, into many other languages. His way with words even earned him diplomatic status; he served in Buenos Aires and Barcelona as a Chilean diplomat. 
 
