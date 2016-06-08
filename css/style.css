@@ -245,6 +245,11 @@ hr{
   font-family: 'Ubuntu';
 }
 
+.col-md, col-sm, col-lg{
+  padding:0;
+  margin:0;
+}
+
 section{
   font-family: 'Ubuntu';
 margin: 30px 0 30px 0;
