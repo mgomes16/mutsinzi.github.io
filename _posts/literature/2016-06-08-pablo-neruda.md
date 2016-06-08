@@ -25,18 +25,17 @@ His lines trigger thought, they stop you in your tracks and force you to contemp
 Born in Chile, Neruda wrote his poems in Spanish but his works have been translated elegantly into English and needless to say many other languages. His way with words even earned him diplomatic status; he served in Buenos Aires and Barcelona as a Chilean diplomat. 
 
 > from "Full Woman, Fleshly Apple, Hot Moon"
-Full woman, fleshly apple, hot moon,
-thick smell of seaweed, crushed mud and light,
-what obscure brilliance opens between your columns?
-What ancient night does a man touch with his senses?
+  >Full woman, fleshly apple, hot moon,
+   thick smell of seaweed, crushed mud and light,
+   what obscure brilliance opens between your columns?
+   What ancient night does a man touch with his senses?
 
-Loving is a journey with water and with stars,
-with smothered air and abrupt storms of flour:
-loving is a clash of lightning-bolts
-and two bodies defeated by a single drop of honey.
-From "Full Woman, Fleshly Apple, Hot Moon",
-Selected Poems translated by Stephen Mitchell (1997) 
-    Source: [Pablo Neruda - Wikipedia](https://en.wikipedia.org/wiki/Pablo_Neruda "Pablo Neruda - Wikipedia")
+   >Loving is a journey with water and with stars,
+    with smothered air and abrupt storms of flour:
+    loving is a clash of lightning-bolts
+    and two bodies defeated by a single drop of honey.
+      Selected Poems translated by Stephen Mitchell (1997) 
+      Source: [Pablo Neruda - Wikipedia](https://en.wikipedia.org/wiki/Pablo_Neruda "Pablo Neruda - Wikipedia")
 
 
 
