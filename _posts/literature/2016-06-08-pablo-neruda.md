@@ -8,6 +8,10 @@ image: neruda.jpg
 image-source: "http://www.losandes.com.ar/files/image/2013/11/8/564849.jpg"
 ---
 
+
+
+
+
 I first heard the name 'Pablo Neruda' while I was watching the movie 'The motocycle diaries', an epic of Ernest [Che] Guevara's latin American travels. I had learnt to appreciate the many brilliant 'Guevarian' references and so I quickly looked up Neruda in a google search.
 
 I knew immediately that I had just discovered a brilliant poet when I read the lines: 
