@@ -24,7 +24,8 @@ His lines trigger thought, they stop you in your tracks and force you to contemp
  
 Born in Chile, Neruda wrote his poems in Spanish but his works have been translated elegantly into English and needless to say many other languages. His way with words even earned him diplomatic status; he served in Buenos Aires and Barcelona as a Chilean diplomat. 
 
-> from "Full Woman, Fleshly Apple, Hot Moon"
+<blockquote cite="https://en.wikipedia.org/wiki/Pablo_Neruda">
+	from "Full Woman, Fleshly Apple, Hot Moon"
 
   Full woman, fleshly apple, hot moon,
 
@@ -43,10 +44,10 @@ Born in Chile, Neruda wrote his poems in Spanish but his works have been transla
 
     and two bodies defeated by a single drop of honey.
 
-    
-      Selected Poems translated by Stephen Mitchell (1997) 
-      Source: [Pablo Neruda - Wikipedia](https://en.wikipedia.org/wiki/Pablo_Neruda "Pablo Neruda - Wikipedia")
 
-
+      Selected Poems translated by Stephen Mitchell (1997)
+</blockquote>
+  
+     
 
 Neruda's poetry avoids most poetic cliches, it expresses honesty without sacrificing dignity and manages to affect the reader so effortlessly.
