@@ -16,12 +16,15 @@ I first heard the name 'Pablo Neruda' while I was watching the movie 'The motocy
 
 When I read these lines: 
 
-> Tonight I can write the saddest lines, I loved her and sometimes she loved me too
+</blockquote> Tonight I can write the saddest lines, I loved her and sometimes she loved me too<br/>
+    -Poem: Tonight I can write the saddest lines
+</blockquote>
 
 I felt that there was something in the way the man had put his words together that affected me so deeply. I sought out the slightest hint of dishonesty, of ego in the man's lines but I found none. How could someone manage to expose their whole being in two very sad lines. I was hooked.
 
-
-> I want to do with you what spring does with cherry trees
+<blockquote>I want to do with you what spring does with cherry trees<br/>
+-Poem: Every Day You Play
+</blockquote>
 
 His lines trigger thought, they stop you in your tracks and force you to contemplate them, they demand to be consumed attentively. 
 Neruda wrote his first poems in 1914, when he was only 10 years old. Neruda hadn't always been known as Neruda however, he was born Ricardo Eliécer Neftalí Reyes Basoalto but used Pablo Neruda as his pen name. Later, Pablo Neruda became his legal name and he went on to win the Nobel Prize for Literature in 1971. 
