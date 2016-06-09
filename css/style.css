@@ -356,6 +356,9 @@ background-color:#fff;
 
 }
 
+.div_link :focus{
+text-decoration:none !important;
+}
 .contact{
 
 

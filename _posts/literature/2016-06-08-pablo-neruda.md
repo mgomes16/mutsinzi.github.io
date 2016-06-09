@@ -16,8 +16,8 @@ I first heard the name 'Pablo Neruda' while I was watching the movie 'The motocy
 
 When I read these lines: 
 
-</blockquote> Tonight I can write the saddest lines, I loved her and sometimes she loved me too<br/>
-    -Poem: Tonight I can write the saddest lines
+</blockquote>Tonight I can write the saddest lines, I loved her and sometimes she loved me too<br/>
+-Poem: Tonight I can write the saddest lines
 </blockquote>
 
 I felt that there was something in the way the man had put his words together that affected me so deeply. I sought out the slightest hint of dishonesty, of ego in the man's lines but I found none. How could someone manage to expose their whole being in two very sad lines. I was hooked.
