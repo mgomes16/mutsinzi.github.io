@@ -12,6 +12,14 @@
   .team .col{
     flex-grow: 0 !important;
   }
+
+  .about-us .col-md-7{
+    padding:0 !important;
+  }
+
+  .about-us .col-md-5{
+    padding: 0 !important;
+  }
 }
 
 
