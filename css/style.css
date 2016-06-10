@@ -5,13 +5,7 @@
     padding: 5% 0 0 0 !important;
   }
 
-  .team .row{
-    display: block !important;
-  }
-
-  .team .col{
-    flex-grow: 0 !important;
-  }
+  
 
   .about-us .col-md-7{
     padding:0 !important;
@@ -440,19 +434,14 @@ text-align: center;
  .team .row{
   margin: 0 auto;
   padding: 10px 0 10px 0;
-  display: flex;
+  
 
  
 }
 
-.team .col-md-4{
-  border: 0.2px solid #999;
-  flex-grow: 1;
-}
 
-.team .thumbnail{
-  border: none !important;
-}
+
+
 .team i{
   color: #333333;
   font-size: 20px;
