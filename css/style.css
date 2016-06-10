@@ -430,6 +430,7 @@ text-align: center;
 
 .about-us h2{
   color:#ff475b;
+  font-size:20px;
   text-transform: uppercase;
 }
 
@@ -439,7 +440,7 @@ text-align: center;
   font-family: 'Helvetica Nueu';
   font-weight: 400;
   text-transform: uppercase;
-  font-size: 26px;
+  font-size: 20px;
 }
 
  .team .row{

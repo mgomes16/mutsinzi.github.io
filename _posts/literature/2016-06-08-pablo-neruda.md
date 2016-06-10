@@ -16,7 +16,7 @@ I first heard the name 'Pablo Neruda' while I was watching the movie 'The motocy
 
 When I read these lines: 
 
-</blockquote>Tonight I can write the saddest lines, I loved her and sometimes she loved me too<br/>
+<blockquote>Tonight I can write the saddest lines, I loved her and sometimes she loved me too<br/>
 -Poem: Tonight I can write the saddest lines
 </blockquote>
 
