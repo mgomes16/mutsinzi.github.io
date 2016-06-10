@@ -126,10 +126,10 @@ nav img{
   text-decoration: none;
   padding: 5px;
   margin-bottom: 1%;
-  background-color: #000;
+ 
   text-transform: uppercase;
   font-size: 12px;
-  color: #fff;
+  color: #ff475b;
   font-weight: 800;
   letter-spacing: 1px;
 
@@ -137,7 +137,7 @@ nav img{
 }
 
 .nav a:hover{
-  background-color: #333333 !important;
+  background-color: #1f1f1f !important;
   color: #fff !important;
 }
 ul{
@@ -212,7 +212,7 @@ background-position: center;
 
 
 .current{
-  background-color:#000531;
+  background-color:#1f1f1f;
   color: #fff;
 }
 
@@ -253,6 +253,7 @@ hr{
 .page-category{
   font-size: 30px;
   font-family: 'Ubuntu';
+  color:#ff475b;
 }
 
 .col-md-4, col-sm-6{
@@ -423,8 +424,13 @@ text-align: center;
   padding:40px 0 50px 0;
   font-size: 16px;
 }
+
+.about-us h2{
+  color:#ff475b;
+}
+
 .about-us h4{
-  color:#333333;
+  color:#ff475b;
   margin-top: 20px;
   font-family: 'Helvetica Nueu';
   font-weight: 400;
