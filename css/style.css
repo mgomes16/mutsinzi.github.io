@@ -424,18 +424,14 @@ text-align: center;
 .about-us .row{
   margin: 0 auto;
   padding: 50px 0 60px 0;
-  display:flex;
+ 
 }
 .team i{
   color: #333333;
   font-size: 20px;
 }
 
-.team .col-md-4{
-  flex: 1;
-  padding:1em;
-  border: solid;
-}
+
 
 .team img{
   /*border-radius: 100%;*/
