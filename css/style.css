@@ -211,10 +211,7 @@ background-position: center;
 
 
 
-.current{
-  background-color:#1f1f1f;
-  color: #fff !important;
-}
+
 
 
 
@@ -423,6 +420,10 @@ text-align: center;
   width: inherit;
   padding:40px 0 50px 0;
   font-size: 16px;
+}
+
+.about-us .col-md-12{
+  padding:0;
 }
 
 .about-us h2{
