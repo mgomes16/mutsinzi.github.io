@@ -87,6 +87,10 @@ font-family: 'Lora', 'Times New Roman', serif;
   padding: 0;
   margin: 0;
 }
+
+i:hover{
+  color:#ff475b;
+}
 header{
   margin: 0 auto;
   text-align: center;
@@ -428,6 +432,7 @@ text-align: center;
 
 .about-us h2{
   color:#ff475b;
+  text-transform: uppercase;
 }
 
 .about-us h4{
@@ -435,6 +440,7 @@ text-align: center;
   margin-top: 20px;
   font-family: 'Helvetica Nueu';
   font-weight: 400;
+  text-transform: uppercase;
   font-size: 26px;
 }
 
