@@ -10,14 +10,15 @@ layout: default
   <div class="container">
 
   {% for post in site.categories.music-reviews limit:4 %}
+  <a class= "div_link" href="{{ post.url | prepend: site.github.url }}">
 <div class = "col-md-4">
 
 
         <div class="music-reviews-highlight" style="background-image: url('{{site.github.url}}/img/{{post.image}}')">
 
-  <a class= "div_link" href="{{ post.url | prepend: site.github.url }}"> <h1 class="div_content">{{post.title}}</h1>
+   <h1 class="div_content">{{post.title}}</h1>
           <p>{{post.meta}}</p>
-        </a>
+        
 
     </div>
 
@@ -25,6 +26,7 @@ layout: default
 
 
 </div>
+</a>
   {% endfor %}
 </div>
 </div>
