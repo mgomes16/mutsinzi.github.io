@@ -351,7 +351,6 @@ padding-top: 20%;
 
 .div_link :hover{
   text-decoration: none !important;
-background-color:#fff;
   opacity: 0.7;
 
 }
@@ -425,10 +424,17 @@ text-align: center;
 .about-us .row{
   margin: 0 auto;
   padding: 50px 0 60px 0;
+  display:flex;
 }
 .team i{
   color: #333333;
   font-size: 20px;
+}
+
+.team .col{
+  flex: 1;
+  padding:1em;
+  border: solid;
 }
 
 .team img{
