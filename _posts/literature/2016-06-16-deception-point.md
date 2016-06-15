@@ -31,7 +31,7 @@ He excited me because he used conflicts and dilemmas between important character
 If you read this book now, you’d be amused by one character that reminds you of a particular presidential candidate today. Amused, because of how well it portrays the over-confidence, the aspect of being disliked by a majority of the world etc.
 
 
-My favourite character had to be the female lead. Rachel. She had this shock factor when she spoke to experts of fields she’s not expected to know, but she also held herself strongly against traitors or disliked characters (Yep, there were more than one if you read the novel). I also appreciate the scientist Corky Marlinson, given a short pudgy description and a character of someone smart but would amuse you in his social interactions. This depends on your sense of humour, of course.
+My favorite character had to be the female lead. Rachel. She had this shock factor when she spoke to experts of fields she’s not expected to know, but she also held herself strongly against traitors or disliked characters (Yep, there were more than one if you read the novel). I also appreciate the scientist Corky Marlinson, given a short pudgy description and a character of someone smart but would amuse you in his social interactions. This depends on your sense of humour, of course.
 
 
 Without going into the book to avoid spoilers, this novel has its own entertainment value for its scientific thriller aspect, and having to keep up with all the twists and turns, and compelling characters. Also, conspiracy theories are fascinating if you’re a naturally curious person.  
