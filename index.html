@@ -17,25 +17,25 @@ layout: default
   <div class = "container">
 
   {% for post in site.categories.music-reviews limit: 4 %}
-  <a class= "div_link"  href="{{ post.url | prepend: site.github.url }}"> 
+  <a class= "div_link"  href="{{ post.url | prepend: site.github.url }}">
   <div class = "col-md-4 col-sm-6 post">
   <!-- <h4 class="category-heading" style="text-transform: uppercase; background-color:#000">Music</h4> -->
 
 
- 
+
         <div class="highlight" style="background-image: url('{{site.github.url}}/img/{{post.image}}')">
 <h1 class="div_content">{{post.title}}</h1>
 
 </div>
 
 
- 
+
 
   </div>
 </a>
   {% endfor %}
 
-</div>
+
 
 </div>
 </div>
@@ -56,7 +56,7 @@ layout: default
 
    <h1 class="div_content">{{post.title}}</h1>
           <p>{{post.meta}}</p>
-        
+
 
     </div>
 
