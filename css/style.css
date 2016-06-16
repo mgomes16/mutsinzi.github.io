@@ -5,7 +5,7 @@
     padding: 5% 0 0 0 !important;
   }
 
-  
+
 
   .about-us .col-md-7{
     padding:0 !important;
@@ -130,7 +130,7 @@ nav img{
   text-decoration: none;
   padding: 5px;
   margin-bottom: 1%;
- 
+
   text-transform: uppercase;
   font-size: 12px;
   color: #ff475b;
@@ -405,7 +405,9 @@ footer ul{
 
 
 
-
+footer i:hover{
+  color:#e20024;
+}
 
 footer .copyright{
 
@@ -446,9 +448,9 @@ text-align: center;
  .team .row{
   margin: 0 auto;
   padding: 10px 0 10px 0;
-  
 
- 
+
+
 }
 
 
