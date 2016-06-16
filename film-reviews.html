@@ -2,19 +2,31 @@
 layout: default
 ---
 
-<h1 class="page-category"> Film Reviews </h1>
+<h1 class="page-category">
+  Film Reviews
+</h1>
 <hr>
 
-<section class="text-center">
-<h1>COMING SOON</h1>
-<h3>Sorry for the inconvenience</h3>
-</section>
+<div class="row">
+  <div class="container">
 
-<ul>
-  {% for post in site.categories.film-reviews limit:4 %}
-  <li>
-  <a href="{{ post.url | prepend: site.github.url }}">{{post.title}}</a>
-  <p>{{post.meta}}</p>
-  </li>
+  {% for post in site.categories.film-reviews limit:3 %}
+<a class= "div_link" href="{{ post.url | prepend: site.github.url }}"><div class = "col-md-4 col-sm-6">
+
+
+         <div class="music-reviews-highlight" style="background-image: url('{{site.github.url}}/img/{{post.image}}')">
+
+  <h1 class="div_content">{{post.title}}</h1>
+          <p>{{post.meta}}</p>
+
+
+    </div>
+
+<hr/>
+
+
+</div>
+</a>
   {% endfor %}
-</ul>
+</div>
+</div>

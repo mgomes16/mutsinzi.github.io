@@ -16,7 +16,7 @@ layout: default
 <div class = "row">
   <div class = "container">
 
-  {% for post in site.categories.music-reviews limit: 4 %}
+  {% for post in site.categories.music-reviews limit: 3 %}
   <a class= "div_link"  href="{{ post.url | prepend: site.github.url }}">
   <div class = "col-md-4 col-sm-6 post">
   <!-- <h4 class="category-heading" style="text-transform: uppercase; background-color:#000">Music</h4> -->
@@ -42,12 +42,42 @@ layout: default
 </section>
 <!-- end of music section  -->
 
+<!-- film section -->
+<section>
+<div class="row">
+  <div class="container">
+
+  {% for post in site.categories.film-reviews limit:3 %}
+  <a class= "div_link" href="{{ post.url | prepend: site.github.url }}">
+<div class = "col-md-4 col-sm-6">
+
+
+        <div class="music-reviews-highlight" style="background-image: url('{{site.github.url}}/img/{{post.image}}')">
+
+   <h1 class="div_content">{{post.title}}</h1>
+          <p class="text-center" style="font-weight:400">{{post.meta}}</p>
+
+
+    </div>
+
+
+
+
+</div>
+</a>
+  {% endfor %}
+</div>
+</div>
+</section>
+<!-- end of film section -->
+
+
 <!-- Literature -->
 <section>
 <div class="row">
   <div class="container">
 
-  {% for post in site.categories.literature limit:4 %}
+  {% for post in site.categories.literature limit:3 %}
   <a class= "div_link" href="{{ post.url | prepend: site.github.url }}">
 <div class = "col-md-4 col-sm-6">
 
