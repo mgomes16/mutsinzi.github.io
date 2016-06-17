@@ -445,33 +445,24 @@ text-align: center;
   font-size: 20px;
 }
 
- .team .row{
-  margin: 0 auto;
-  padding: 10px 0 10px 0;
 
 
+.writer_image{
+  width:100px;
+  height:100px;
 
 }
 
-
-
-
-.team i{
-  color: #333333;
-  font-size: 20px;
+.writer_image:hover{
+  opacity: 0.7;
+  cursor: pointer;
+  
 }
 
-.team i:hover{
-  color: #ff475b;
+.writer{
+  margin:20px 0;
 }
 
-
-
-.team img{
-  /*border-radius: 100%;*/
-}
-
-.team h3{
-  font-size: 20px;
-  width: 100%;
+.team_container .row{
+  margin: 40px 0;
 }
