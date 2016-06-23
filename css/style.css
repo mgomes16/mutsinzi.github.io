@@ -46,6 +46,19 @@
   .about-us .col-md-5{
     padding: 0 !important;
   }
+  .small-xs-screens{
+    display: inline-block !important;
+  }
+
+
+
+  .large-medium-screens{
+    display: none;
+  }
+
+  .small-screen-img{
+    width:60%;
+  }
 }
 
 
@@ -80,6 +93,10 @@ body{
   .site_name{
     font-size: 25px;
   }
+}
+
+.small-xs-screens{
+  display: none;
 }
 
 
@@ -165,7 +182,7 @@ nav img{
 
   text-transform: uppercase;
   font-size: 12px;
-  color: #ff475b;
+  color: #1f1f1f;
   font-weight: 800;
   letter-spacing: 1px;
 
@@ -212,7 +229,7 @@ ul{
 
 .post{
   padding: 0;
-  margin: 0;
+  margin: 0 0 10px 0;
 
 }
 
@@ -327,6 +344,7 @@ width: 100%;
 
 background-position: left;
 background-size: cover;
+margin-bottom: 30px;
 }
 
 .music-reviews-highlight{
@@ -350,6 +368,10 @@ background-size: cover;
 .meta{
   font-style: italic;
 }
+
+.author{
+  color: #ff475b;
+}
 h1, h3{
   width:25%;
 
@@ -358,7 +380,18 @@ h1, h3{
 
 .post-text{
   margin: 50px 0 20px 0;
+
 }
+
+.post-text p{
+  line-height: 35px;
+
+}
+.post-text a{
+  color: #ff475b;
+  font-size: 16px;
+}
+
 .highlight-heading{
   font-family:'Ubuntu';
   font-size: 20px;
@@ -468,6 +501,8 @@ text-align: center;
   text-transform: uppercase;
 }
 
+
+
 .about-us h4{
   color:#ff475b;
   margin-top: 20px;
@@ -482,11 +517,12 @@ text-align: center;
 .writer_image{
   width:100px;
   height:100px;
+  opacity:0.7;
 
 }
 
 .writer_image:hover{
-  opacity: 0.7;
+  opacity: 1;
   cursor: pointer;
 
 }
@@ -514,4 +550,9 @@ text-align: center;
   font-style: italic;
   font-weight: lighter;
   font-size:16px;
+}
+
+blockquote{
+  border-left: 5px solid #ff475b !important;
+
 }

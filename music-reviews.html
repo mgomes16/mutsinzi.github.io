@@ -9,7 +9,8 @@ layout: default
 <div class="row">
   <div class="container">
 
-  {% for post in site.categories.music-reviews limit:3 %}
+  {% for post in site.posts %}
+  {% if {{post.tag}} contains "music" %}
   <a class= "div_link" href="{{ post.url | prepend: site.github.url }}">
 <div class = "col-md-4">
 
@@ -27,6 +28,7 @@ layout: default
 
 </div>
 </a>
+{% endif %}
   {% endfor %}
 </div>
 </div>

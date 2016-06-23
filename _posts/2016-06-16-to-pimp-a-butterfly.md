@@ -3,8 +3,8 @@ layout: posts
 author: Ben Rutabana
 title: To Pimp A Butterfly
 subtitle: An album by Kendrick Lamar
-category: music-reviews
 image: kendrick.jpg
+tag: music
 source:
 ---
 
