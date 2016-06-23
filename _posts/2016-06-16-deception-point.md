@@ -3,7 +3,7 @@ layout: posts
 author: Ines Makuza
 title: Deception Point
 subtitle: A novel by Dan Brown
-image: deception.jpg
+image: deception.JPG
 tag: literature
 image-source: "https://upload.wikimedia.org/wikipedia/commons/d/db/Mt_Herschel,_Antarctica,_Jan_2006.jpg"
 ---
