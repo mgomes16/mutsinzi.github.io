@@ -5,6 +5,38 @@
     padding: 5% 0 0 0 !important;
   }
 
+@media only screen and (max-width: 650px){
+  .post-img{
+    height:300px !important;
+    padding:0;
+
+  }
+
+  .post_title{
+    font-size: 16px;
+  }
+
+  .subheading{
+    font-size: 14px !important;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .post-img{
+    height: 150px !important;
+    padding:50px !important;
+  }
+  .post_title{
+    font-size: 14px !important;
+  }
+  .subheading{
+    font-size:12px !important;
+  }
+  .meta{
+    font-size: 14px !important;
+  }
+}
+
 
 
   .about-us .col-md-7{
@@ -456,7 +488,7 @@ text-align: center;
 .writer_image:hover{
   opacity: 0.7;
   cursor: pointer;
-  
+
 }
 
 .writer{
@@ -465,4 +497,21 @@ text-align: center;
 
 .team_container .row{
   margin: 40px 0;
+}
+
+
+.bio_wrapper{
+  margin: 100px 0 0 0;
+    font-size:16px;
+}
+
+.bio_wrapper a{
+  color: #333;
+}
+
+.bio{
+  color: #333;
+  font-style: italic;
+  font-weight: lighter;
+  font-size:16px;
 }

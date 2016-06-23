@@ -63,3 +63,6 @@ It then dawns on him that he’s stuck in the same loop. Cornered and alone in t
 
 
 And that is the point of the album. By showing us his growth and pains, by having us bleed like he did through the use of soulful samples layered over the roundness of a low bass synth and the deliberate distortion of his voice, we learn the truth like he did and we pay it forward. We sprout wings and leave the cocoon. We become butterflies.
+
+
+{% include ben.html %}

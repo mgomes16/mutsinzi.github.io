@@ -16,7 +16,7 @@ Deception Point is Dan Brown’s third book published in 2001, focusing on the m
 This novel was not my firs rodeo with Dan Brown. I started with the exciting ‘Inferno’ at the beginning of my senior, in search of distraction in the form of mystery and intellect in novels. Thanks to a friend, I found one. And then I proceeded on to ‘Angels and Demons’. My mistake here was I read his books in the wrong order. But boy did I love the formula Brown used. It was a kind of consistency that felt assuring and was acceptable because Brown found a way to throw a new shocking revelation at you.
 
 
-By formula I mean Brown’s use of a big mystery given at the beginning, a male and female protagonist with amazing intellectual capabilities, which they utilize to solve codes, coming face to face with an unexpected traitor and their twisted motives. The consistency almost did bore me. 
+By formula I mean Brown’s use of a big mystery given at the beginning, a male and female protagonist with amazing intellectual capabilities, which they utilize to solve codes, coming face to face with an unexpected traitor and their twisted motives. The consistency almost did bore me.
 
 
 But Brown brought me straight back in because he individualized the characters; he used various settings, and always managed to throw in shocking turns and reveals. A lot of the novels are based on real life facts of religious and scientific history and references that governments deny, so if you love conspiracies, his books are one of the best.
@@ -35,3 +35,5 @@ My favorite character had to be the female lead. Rachel. She had this shock fact
 
 
 Without going into the book to avoid spoilers, this novel has its own entertainment value for its scientific thriller aspect, and having to keep up with all the twists and turns, and compelling characters. Also, conspiracy theories are fascinating if you’re a naturally curious person.  
+
+{% include ines.html %}
