@@ -314,6 +314,11 @@ hr{
 .sticky-tag{
   top:100%;
   position:sticky;
+
+}
+
+.img-src{
+  font-size:10px;
   
 }
 

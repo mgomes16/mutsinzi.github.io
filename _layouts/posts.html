@@ -13,7 +13,9 @@ layout: default
 <br/>
 
 </header>
+<p style="margin: 0 !important">{% if page.image-source %}<span style="font-size:12px; font-style:italic">Image Source: </span><span class="img-src">[{{page.image-source}}]</span>{% endif %}</p>
 <span class="meta">Posted by {% if page.author %}<span class="author">{{ page.author }}</span>{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+<hr>
 <div class="post-text">
 {{content}}
 </div>
