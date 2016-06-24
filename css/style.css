@@ -311,6 +311,12 @@ hr{
   margin:0;
 }
 
+.sticky-tag{
+  top:100%;
+  position:sticky;
+  
+}
+
 section{
   font-family: 'Ubuntu';
 margin: 30px 0 30px 0;
@@ -460,6 +466,7 @@ footer{
 
 
   margin-top:10%;
+  margin-bottom:30px;
 
 }
 
@@ -472,6 +479,11 @@ footer ul{
 
 footer i:hover{
   color:#e20024;
+}
+
+footer .copyright i:hover{
+  cursor:pointer;
+  color:#ff475b !important;
 }
 
 footer .copyright{
