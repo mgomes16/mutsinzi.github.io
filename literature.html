@@ -12,7 +12,7 @@ layout: default
 
   {% for post in site.posts %}
   {% if {{post.tag}} contains "literature" %}
-<a class= "div_link" href="{{ post.url | prepend: site.github.url }}"><div class = "col-md-4 col-sm-6">
+<a class= "div_link" href="{{ post.url | prepend: site.github.url }}"><div class = "col-md-4 col-sm-6 post">
 
 
          <div class="music-reviews-highlight" style="background-image: url('{{site.github.url}}/img/{{post.image}}')">

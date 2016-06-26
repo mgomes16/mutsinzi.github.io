@@ -319,7 +319,7 @@ hr{
 
 .img-src{
   font-size:10px;
-  
+
 }
 
 section{
@@ -369,6 +369,7 @@ font-weight: 300;
 color:#fff;
 height: 200px;
 width: 100%;
+margin-bottom:30px;
 /*padding: 0 15%;*/
 background-position: center center;
 background-size: cover;
