@@ -13,7 +13,8 @@ layout: default
 <br/>
 
 </header>
-<p style="margin: 0 !important">{% if page.image-source %}<span style="font-size:12px; font-style:italic">Image Source: </span><span class="img-src">[{{page.image-source}}]</span>{% endif %}</p>
+<p style="margin: 0 !important">{% if page.image-source %}<span style="font-size:16px; font-style:italic">Image Source </span><a href="{{page.image-source}}"><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
+</a>{% endif %}</p>
 <span class="meta">Posted by {% if page.author %}<span class="author">{{ page.author }}</span>{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
 <hr>
 <div class="post-text">
