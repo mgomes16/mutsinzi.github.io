@@ -403,6 +403,15 @@ h1, h3{
   line-height: 35px;
 
 }
+
+::-webkit-selection { background-color: #ff475b; }
+::-moz-selection { background-color: #ff475b; }
+::-ms-selection { background-color: #ff475b; }
+
+.post-text::selection{
+  background-color: #ff475b !important;
+}
+
 .post-text a{
   color: #ff475b;
   font-size: 16px;
