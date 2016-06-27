@@ -45,6 +45,9 @@
   .meta{
     font-size: 14px !important;
   }
+  .highlight-tag{
+    display:none !important;
+  }
 }
 
 
