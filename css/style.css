@@ -1,4 +1,14 @@
+
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1;}
+@-o-viewport { width: device-width; scale: 1;}
+@-webkit-viewport { width: device-width; scale: 1;}
+@viewport { width: device-width; scale: 1;}
+
+
+
 @import url(http://fonts.googleapis.com/css?family=Ubuntu);
+
 
 @media only screen and (max-width: 768px){
   .post-container{
@@ -215,6 +225,8 @@ ul{
   padding:0;
   margin-top: 2%;
   width: 100%;
+  background-color: #f4f4f2;
+  padding-top: 5px;
   font-size: 20px;
 }
 
@@ -312,9 +324,14 @@ hr{
 }
 
 .sticky-tag{
-  top:100%;
-  position:sticky;
+  top: 177px;
+  position:absolute;
 
+}
+
+.high-tag{
+  top:164px;
+  position:absolute;
 }
 
 
