@@ -1,6 +1,6 @@
 <nav class="large-medium-screens">
 <!-- <a href ="{{site.github.url}}/index.html" title = "Home"><img class="img-responsive" src ="{{site.github.url}}/img/logo.png"></a> -->
-<a href ="{{site.github.url}}/index.html" title = "Home"><h2 style="font-family:'Oswold'; color:#fff;">Mellow Views</h2></a>
+<a class="brand-heading" href ="{{site.github.url}}/index.html" title = "Home"><h2 style="font-family:'Oswold'; color:#fff;">Mellow Views</h2></a>
   <ul class= "nav">
     <li><a href="{{site.github.url}}/index.html" class="{% if page.url contains 'index' %}current{% endif %}">Home</a></li>
     <li><a href="{{site.github.url}}/music-reviews.html" class="{% if page.url contains 'music' %}current{% endif %}">Music</a></li>
@@ -13,7 +13,7 @@
 
 <nav class="small-xs-screens">
 <!-- <a href ="{{site.github.url}}/index.html" title = "Home"><img class=" small-screen-img img-responsive" src ="{{site.github.url}}/img/logo.png"></a> -->
-<a href ="{{site.github.url}}/index.html" title = "Home"><h2 style="font-family:'Oswold'; color:#fff;">Mellow Views</h2></a>
+<a class="brand-heading" href ="{{site.github.url}}/index.html" title = "Home"><h2 style="font-family:'Oswold'; color:#fff;">Mellow Views</h2></a>
   <ul class= "nav">
     <li><a href="{{site.github.url}}/index.html" class="{% if page.url contains 'index' %}current{% endif %}">Home</a></li>
     <li><a href="{{site.github.url}}/music-reviews.html" class="{% if page.url contains 'music-reviews' %}current{% endif %}">Music</a></li>
@@ -23,3 +23,18 @@
   </ul>
 
 </nav>
+
+<style>
+.brand-heading:hover{
+  text-decoration: none;
+
+}
+
+.brand-heading:focus{
+  text-decoration: none;
+}
+
+.brand-heading:link{
+  text-decoration: none;
+}
+</style>
