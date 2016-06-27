@@ -1,3 +1,6 @@
+/* Background pattern from subtlepatterns.com */
+
+
 
 @-moz-viewport { width: device-width; scale: 1; }
 @-ms-viewport { width: device-width; scale: 1;}
@@ -153,6 +156,7 @@ font-family: 'Lora', 'Times New Roman', serif;
 i:hover{
   color:#ff475b;
 }
+
 
 header{
   margin: 0 auto 30px 0;
