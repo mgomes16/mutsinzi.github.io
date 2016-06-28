@@ -4,4 +4,4 @@ kramdown:
   hard_wrap: false
 highlighter: rouge
 exclude: ['README.md']
-url: https://mutsinzi.github.io
+url: http://mutsinzi.github.io
