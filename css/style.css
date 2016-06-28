@@ -39,6 +39,10 @@
     height: 150px !important;
     padding:50px !important;
   }
+
+  .container-fluid{
+  padding: 0 !important;
+  }
   .post_title{
     font-size: 14px !important;
   }
@@ -161,7 +165,7 @@ i:hover{
 header{
   margin: 0 auto 30px 0;
   text-align: center;
-  background-image: url('../img/pink_rice.png');
+  background-image: url('../img/binding_dark.png');
 }
 
 nav{
