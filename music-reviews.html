@@ -11,23 +11,22 @@ layout: default
 
   {% for post in site.posts %}
   {% if {{post.tag}} contains "music" %}
+  <div class = " col-md-4 col-sm-6 post">
+
   <a class= "div_link" href="{{ post.url | prepend: site.github.url }}">
-<div class = "col-md-4 col-sm-6 post">
+           <div class="music-reviews-highlight" style="background-image: url('{{site.github.url}}/img/{{post.image}}')">
+
+    <h1 class="div_content">{{post.title}}</h1>
+            <p class="text-center">{{post.meta}}</p>
 
 
-        <div class="music-reviews-highlight" style="background-image: url('{{site.github.url}}/img/{{post.image}}')">
-
-   <h1 class="div_content">{{post.title}}</h1>
-          <p>{{post.meta}}</p>
-
-
-    </div>
+      </div>
 
 
 
-
-</div>
-</a>
+  </a>
+  <div class="post-excerpt" style="margin-bottom:30px;"><span class="post_meta_info">{{post.excerpt}}</span></div>
+  </div>
 {% endif %}
   {% endfor %}
 </div>
