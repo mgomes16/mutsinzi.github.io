@@ -13,12 +13,18 @@ layout: default
 <br/>
 
 </header>
-<p style="margin: 0 !important">{% if page.image-source %}<span style="font-size:16px; font-style:italic">Image Source </span><a style="color:#333333" href="{{page.image-source}}"><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
+
+<p style="margin: 0 !important">{% if page.image-source %}<span style="font-size:14px;">Image Source </span><a style="color:#333333" href="{{page.image-source}}"><i style="font-size:12px" class="fa fa-arrow-right" aria-hidden="true"></i>
 </a>{% endif %}</p>
-<span class="meta">Posted by {% if page.author %}<span class="author">{{ page.author }}</span>{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+{% include share.html %}
+<span class="meta light small">Posted by {% if page.author %}<span class="author">{{ page.author }}</span>{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+
 <hr>
 <div class="post-text">
+
 {{content}}
+
+
 </div>
 <hr>
 
