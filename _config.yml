@@ -1,7 +1,7 @@
 markdown: kramdown
-kramdown:
+
   input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
   hard_wrap: false
 highlighter: rouge
 exclude: ['README.md']
-url: http://mutsinzi.github.io
+url: mellowviews.com
