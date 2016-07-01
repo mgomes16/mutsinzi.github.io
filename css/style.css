@@ -434,6 +434,10 @@ background-size: cover;
 
 }
 
+.disqus_comments{
+  margin: 50px 0 50px 0;
+}
+
 
 
 .post-container h1{

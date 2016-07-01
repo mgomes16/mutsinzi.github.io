@@ -5,6 +5,7 @@ title: Purple Hibiscus
 subtitle: A novel by Chimamanda Ngozi Adichie
 image: purple.jpg
 tag: literature
+comments: true;
 image-source: "http://www.adventurouskate.com/wp-content/uploads/2015/12/814pufTaYEL.jpg"
 ---
 

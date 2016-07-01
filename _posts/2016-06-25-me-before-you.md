@@ -5,6 +5,7 @@ title: Me Before You
 subtitle: A novel by Jojo Moyes
 image: meb4u.jpg
 tag: literature
+comments: true;
 image-source: "http://hype.my/wp-content/uploads/2016/05/Me-Before-You-Novel-1024x1024.jpg"
 ---
 

@@ -5,6 +5,7 @@ title: Deception Point
 subtitle: A novel by Dan Brown
 image: deception.JPG
 tag: literature
+comments: true;
 image-source: "https://upload.wikimedia.org/wikipedia/commons/d/db/Mt_Herschel,_Antarctica,_Jan_2006.jpg"
 ---
 
