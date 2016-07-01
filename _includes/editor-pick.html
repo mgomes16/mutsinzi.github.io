@@ -4,15 +4,15 @@
 
   <div class="content">
     {% for post in site.posts %}
-    {% if post.title contains "Purple" %}
+    {% if post.title contains "What" %}
     <a href="{{post.url}}">
       <div class="content-overlay"></div>
       <img class="content-image" src="{{site.github.url}}/img/{{post.image}}" >
       <h2>{{post.title}}</h2>
       <span class="highlight-tag">{% include review.html %}</span>
       <div class="content-details fadeIn-right">
-        <h3>Purple Hibiscus</h3>
-        <p>Kambili along with her brother Jaja, have to face two extreme versions of their father, Eugene, each day. </p>
+        <h3>What If</h3>
+        <p>99% honesty is the foundation of any relationship</p>
       </div>
     </a>
     {% endif %}
@@ -25,7 +25,7 @@
 <div class="col-md-6 col-sm-6 col-xs-12">
 <div class="content">
   {% for post in site.posts %}
-  {% if post.title contains "Lemonade" %}
+  {% if post.title contains "Purple" %}
   <a href="{{post.url}}">
 
     <div class="content-overlay"></div>
@@ -35,8 +35,8 @@
     <h2>{{post.title}}</h2>
       <span class="highlight-tag">{% include review.html %}</span>
     <div class="content-details fadeIn-left">
-      <h3>Lemonade</h3>
-      <p>Beyonce continues to shock her fans with every album she releases. </p>
+      <h3>Purple Hibiscus</h3>
+      <p>Kambili along with her brother Jaja, have to face two extreme versions of their father, Eugene, each day.</p>
     </div>
   </a>
   {% endif %}
