@@ -25,17 +25,19 @@
 <div class="col-md-6 col-sm-6 col-xs-12">
 <div class="content">
   {% for post in site.posts %}
-  {% if post.title contains "Independence" %}
+  {% if post.title contains "Kanura" %}
   <a href="{{post.url}}">
 
     <div class="content-overlay"></div>
 
-    <img class="content-image" src="{{site.github.url}}/img/rwandan_flag.png" >
+    <img class="content-image" src="{{site.github.url}}/img/{{post.image}}" >
 
     <h2>{{post.title}}</h2>
       <!-- <span class="highlight-tag">{% include review.html %}</span> -->
     <div class="content-details fadeIn-left">
-      <h3>Happy Independence Day</h3>
+      <h3>Kanura</h3>
+      <p>Ecclectic influence, a blend of music genres, Dave-astateur's first official
+      mixtape "Kanura" is a nonchalant embodiment of wisdom.</p>
 
     </div>
   </a>
