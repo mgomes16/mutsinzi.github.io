@@ -646,6 +646,11 @@ text-align: center;
   font-size:16px;
 }
 
+.bio a {
+  color: #ff475b;
+
+}
+
 blockquote{
   border-left: 5px solid #ff475b !important;
 
