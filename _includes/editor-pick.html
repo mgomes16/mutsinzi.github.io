@@ -4,15 +4,15 @@
 
   <div class="content">
     {% for post in site.posts %}
-    {% if post.title contains "What" %}
+    {% if post.title contains "A talk" %}
     <a href="{{post.url}}">
       <div class="content-overlay"></div>
       <img class="content-image" src="{{site.github.url}}/img/{{post.image}}" >
       <h2>{{post.title}}</h2>
-      <span class="highlight-tag">{% include review.html %}</span>
+      <span class="highlight-tag">{% include convo.html %}</span>
       <div class="content-details fadeIn-right">
-        <h3>What If</h3>
-        <p>99% honesty is the foundation of any relationship</p>
+        <h3>Allan Tumba</h3>
+        <p>Dance allows you to become one with all elements</p>
       </div>
     </a>
     {% endif %}
