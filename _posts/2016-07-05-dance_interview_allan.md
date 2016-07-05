@@ -79,9 +79,9 @@ My meeting with Allan left me feeling inspired, he's able to balance college wit
 
 Do checkout his social media channels to support his vision!
 
-+ <a href= " https://web.facebook.com/BlackSuperman-805414699525620/?fref=ts"  target="_blank">BlackSuperman<i class="fa fa-facebook" style="padding:15px"></i></a>
++ <a href= " https://web.facebook.com/BlackSuperman-805414699525620/?fref=ts"  target="_blank">@BlackSuperman<i class="fa fa-facebook" style="padding:15px"></i></a>
 
-+ <a href= "https://www.instagram.com/blacksuperman77/"  target="_blank">BlackSuperman<i class="fa fa-instagram" style="padding:15px"></i></a>
++ <a href= "https://www.instagram.com/blacksuperman77/"  target="_blank">@blacksuperman77<i class="fa fa-instagram" style="padding:15px"></i></a>
 
 
 {% include mutsinzi.html %}
