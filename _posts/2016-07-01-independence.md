@@ -25,7 +25,7 @@ HomeComing by Ngugi Wa Thiong'O
 
 Independence can mean a lot of things, and for a nation, it can mean the difference between prosperity and poverty, not just economic poverty but also a poverty of ideas.
 
-Being self-reliant might seem as though it implies that there's no need for co-operation but it actually opens more doors for partnership because there is a mutual benefit to be gained by the two parties as opposed to one party gaining all the benefits when an country is not independent.
+Being self-reliant might seem as though it implies that there's no need for co-operation but it actually opens more doors for partnership because there is a mutual benefit to be gained by the two parties as opposed to one party gaining all the benefits when a country is not independent.
 
 Do share with us your views on independence in the comment section below.
 
