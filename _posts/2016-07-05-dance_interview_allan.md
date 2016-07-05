@@ -18,7 +18,7 @@ There’s much that’s left unsaid when we talk. There’s a lot that words fai
 
 Allan combines various styles of dance to create a unique ensemble of acrobatic, pop and hiphop energies, and this strange but wonderful mix always makes for an unforgettable performance. I met up with Allan to discuss his love for dance, his history and to find out more about this pure form of expression that is dance. Here is what came out of our meeting:
 
-Interview
+INTERVIEW
 ==========
 
 ## When did you start dancing?
