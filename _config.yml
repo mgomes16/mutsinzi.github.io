@@ -4,3 +4,6 @@ hard_wrap: false
 highlighter: rouge
 exclude: ['README.md']
 url: mellowviews.com
+gems: [jekyll-paginate]
+paginate: 12
+paginate_path: "page:num"
