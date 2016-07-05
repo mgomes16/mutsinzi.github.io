@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: A talk with Allan
+title: Mellowtalk with Allan
 author: Mutsinzi
 subtitle: Dance allows you to become one with all elements
 image: allan.jpg
@@ -12,7 +12,7 @@ tag: conversations
 
 There’s much that’s left unsaid when we talk. There’s a lot that words fail to communicate, much that is best communicated silently, or perhaps as we’ll soon discover, physically. Dance, as hip hop self-taught dancer and instructor Allan Tumba says, allows you to be one with all elements, to express that which is inexpressible, through body movement.
 
-Allan combines various styles of dance to create a unique ensemble of acrobatic, pop and hiphop energies, and this strange but wonderful mix of influences always makes for an unforgettable performance. I met up with Allan to discuss his love for dance, his history and to find out more about this pure form of expression that is dance. Here is what came out of our meeting:
+Allan combines various styles of dance to create a unique ensemble of acrobatic, pop and hiphop energies, and this strange but wonderful mix always makes for an unforgettable performance. I met up with Allan to discuss his love for dance, his history and to find out more about this pure form of expression that is dance. Here is what came out of our meeting:
 
 Interview
 ==========
