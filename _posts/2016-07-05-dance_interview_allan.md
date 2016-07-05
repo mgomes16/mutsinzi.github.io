@@ -10,7 +10,11 @@ tag: conversations
 
 > Dance allows you to become one will all elements
 
-There’s much that’s left unsaid when we talk. There’s a lot that words fail to communicate, much that is best communicated silently, or perhaps as we’ll soon discover, physically. Dance, as hip hop self-taught dancer and instructor Allan Tumba says, allows you to be one with all elements, to express that which is inexpressible, through body movement.
+There’s much that’s left unsaid when we talk. There’s a lot that words fail to communicate, much that is best communicated silently, or perhaps as we’ll soon discover, physically. Dance, as hip hop self-taught dancer and instructor Allan Tumba says, allows you to be one with all elements, to express that which is inexpressible, through body movement. Here's some visual aid:
+
+<div class="container-fluid" style="margin:30px 0 !important; padding-bottom:0 !important">
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/i5qVoScq_yM" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Allan combines various styles of dance to create a unique ensemble of acrobatic, pop and hiphop energies, and this strange but wonderful mix always makes for an unforgettable performance. I met up with Allan to discuss his love for dance, his history and to find out more about this pure form of expression that is dance. Here is what came out of our meeting:
 
