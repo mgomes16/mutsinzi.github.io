@@ -79,7 +79,7 @@ layout: default
     {% elsif page == 1 %}
       <a href="{{ '/index.html' | prepend: site.github.url }}">{{ page }}</a>
     {% else %}
-      <a href="{{ site.paginate_path | prepend: site.github.url | replace: ':num', page }}">{{ page }}</a>
+      <a href="{{ paginator.next_page_path | prepend: site.github.url }}">{{ page }}</a>
     {% endif %}
   {% endfor %}
 
