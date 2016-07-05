@@ -45,7 +45,7 @@ INTERVIEW
 
 > 5 days a week, 6 hours a day.
 
-## That's sounds tough man! And thinking of dance as you do, what do you think is the Rwandan attitude towards dance, hiphop especially?
+## That sounds tough man! Thinking of dance as you do, what do you feel is the Rwandan attitude towards dance, hiphop especially?
 
 > At some point, dance was considered popular among teenagers especially but they didn't take it very seriously. So people began not to pay it much attention. There are however few people that do take dance seriously, and so at the moment we, as dancers are in dark times but I believe that because we dance for pleasure, we accomplish our purpose, which is to express ourselves completely!
 
@@ -55,7 +55,7 @@ INTERVIEW
 
 ## In addition to your dance career, you train kids, yes?
 
-> Yes I train kids between 5 and 18 years at Club Rafiki in collaboration with Indigo foundation. The kids I train are able to develop a strong work ethic through dance. In addition to the dancing, I teach them life skills like protecting themselves from HIV, preventing unwanted pregnancies and so on.
+> Yes I train kids between 5 and 18 years old at Club Rafiki in collaboration with Indigo foundation. The kids I train are able to develop a strong work ethic through dance. In addition to the dancing, I teach them life skills like protecting themselves from HIV, preventing unwanted pregnancies and so on.
 
 ## Wow, and do you feel that your impact on these kids' lives is felt?
 
