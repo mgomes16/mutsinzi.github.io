@@ -73,7 +73,7 @@ Interview
 
 My meeting with Allan left me feeling inspired, he's able to balance college with his love for dance and his many aspirations. What I found refreshing the most was how he's able to use dance as a tool to teach kids about transformational life skills.
 
-Do checkout his social media channels and support his vision!
+Do checkout his social media channels to support his vision!
 
 + <a href= " https://web.facebook.com/BlackSuperman-805414699525620/?fref=ts"  target="_blank">BlackSuperman<i class="fa fa-facebook" style="padding:15px"></i></a>
 
