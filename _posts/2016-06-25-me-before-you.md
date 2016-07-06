@@ -9,7 +9,7 @@ comments: true;
 image-source: "http://hype.my/wp-content/uploads/2016/05/Me-Before-You-Novel-1024x1024.jpg"
 ---
 
-<blockquote> You get only get one life. It's actually your duty to live it as fully as possible. ― Jojo Moyes, Me Before You  </blockquote>
+<blockquote> You get only one life. It's actually your duty to live it as fully as possible. ― Jojo Moyes, Me Before You  </blockquote>
 
 I have loved British literature ever since I learned how to read. I have always admired their sense of humor and their ability to make the reader live with the characters. Be it Charles Dickens or the infamous JK Rowling, they sure know how to make their audience happy with their riveting writing. Author Jojo Moyes is no different from her brethren. I read “Me Before You” in a total of 10 hours. Jojo Moyes explores the common themes of love, family issues, heartbreak, social classes and the slightly uncommon theme of euthanasia (the act of killing oneself deliberately in order to stop pain and tribulations). Although hundreds of books have been written about those themes, “Me Before you” is definitely a book to read because it is beautifully written and raises questions that some of us may never have asked ourselves. Set in Stortford a small village in eastern England, “Me Before You” tells a tale of a young woman called Louisa Clark who after getting fired from her job, starts working for a rich family as its son’s caretaker after he becomes quadriplegic because of a motorbike accident.
 
