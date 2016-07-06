@@ -4,15 +4,15 @@
 
   <div class="content">
     {% for post in site.posts %}
-    {% if post.title contains "Mellowtalk" %}
+    {% if post.title contains "Americannah" %}
     <a href="{{post.url}}">
       <div class="content-overlay"></div>
-      <img class="content-image" src="{{site.github.url}}/img/{{post.image}}" >
+      <img class="content-image" src="{{site.github.url}}/img/americannah_cover.jpg" >
       <h2>{{post.title}}</h2>
-      <span class="highlight-tag">{% include convo.html %}</span>
+      <span class="highlight-tag">{% include review.html %}</span>
       <div class="content-details fadeIn-right">
-        <h3>Allan Tumba</h3>
-        <p>Dance allows you to become one with all elements</p>
+        <h3>Americannah</h3>
+        <p>“Racism should never have happened and so you don't get a cookie for reducing it.”</p>
       </div>
     </a>
     {% endif %}
