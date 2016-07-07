@@ -463,7 +463,11 @@ h1, h3{
 }
 
 .post-text p{
-  line-height: 35px;
+  line-height: 1.825em;
+
+  font-weight: 400;
+  margin: 0 0 1em 0;
+
 
 }
 
