@@ -4,15 +4,15 @@
 
   <div class="content">
     {% for post in site.posts %}
-    {% if post.title contains "Americannah" %}
+    {% if post.title contains "Anti" %}
     <a href="{{post.url}}">
       <div class="content-overlay"></div>
-      <img class="content-image" src="{{site.github.url}}/img/americannah_cover.jpg" >
+      <img class="content-image" src="{{site.github.url}}/img/{{post.image}}" >
       <h2>{{post.title}}</h2>
       <span class="highlight-tag">{% include review.html %}</span>
       <div class="content-details fadeIn-right">
-        <h3>Americannah</h3>
-        <p>“Racism should never have happened and so you don't get a cookie for reducing it.”</p>
+        <h3>Anti</h3>
+        <p>Rihanna's 8th studio album</p>
       </div>
     </a>
     {% endif %}
