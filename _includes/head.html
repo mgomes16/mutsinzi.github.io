@@ -3,13 +3,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {% for post in site.posts %}
-    {% if post.layout contains "posts" %}
-    <meta property="og:title" content="{{post.title}}" />
-    <meta property="og:url" content="post.url" />
-    <meta property="og:image" content="{{site.github.url}}/img/{{post.image}}">
-    {% endif %}
-    {% endfor %}
+
+    <meta property="og:title" content="post.title" />
+    <meta property="og:type" content="article" />
+    <meta property="og:image" content="{{site.github.url}}/img/{{post.image}}" />
+    <meta property="og:url" content="{{post.url}}" />
+    <meta property="og:description" content="{{post.desciption}}" />
+
 
 
     <!-- fav icon -->
