@@ -8,6 +8,7 @@
 <meta property="og:type" content="{% if post.date %}article{% else %}website{% endif %}">
 <meta property="og:url" content="{{ post.url | replace:'/index.html','/' | prepend: site.github.url }}">
 <meta property="og:image" content="{% if post.image %}{{ post.image | prepend: site.github.url }}{% else %}{{ site.logo | prepend: site.github.url }}{% endif %}">
+<meta property="og:description" content="{% if post.subtitle %}{{ post.subtitle | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:site_name" content="{{ site.name }}">
 <meta property="og:locale" content="{{ site.locale }}">
 
