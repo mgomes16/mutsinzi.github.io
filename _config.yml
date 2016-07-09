@@ -1,4 +1,5 @@
 markdown: kramdown
+Description: MellowViews is a creative site, exploring Art and Culture.
 title: Mellow Views
 input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
 hard_wrap: false
