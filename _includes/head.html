@@ -4,32 +4,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-    <meta property="og:title" content="{% if page.title %}{{ page.title | smartify | strip_html | strip_newlines | escape_once }}{% else %}{{ site.name }}{% endif %}">
-<meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
-<meta property="og:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.github.url }}">
-<meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.github.url }}{% else %}{{ site.logo | prepend: site.github.url }}{% endif %}">
-<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:title" content="{% if post.title %}{{ post.title | smartify | strip_html | strip_newlines | escape_once }}{% else %}{{ site.name }}{% endif %}">
+<meta property="og:type" content="{% if post.date %}article{% else %}website{% endif %}">
+<meta property="og:url" content="{{ post.url | replace:'/index.html','/' | prepend: site.github.url }}">
+<meta property="og:image" content="{% if post.image %}{{ post.image | prepend: site.github.url }}{% else %}{{ site.logo | prepend: site.github.url }}{% endif %}">
+<meta property="og:description" content="{% if post.excerpt %}{{ post.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:site_name" content="{{ site.name }}">
 <meta property="og:locale" content="{{ site.locale }}">
 
 
-{% if page.date %}
+{% if post.date %}
   <meta property="article:author" content="https://www.facebook.com/{{ site.author.facebook }}">
-  <meta property="article:modified_time" content="{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}">
-  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  <meta property="article:modified_time" content="{% if post.last_modified_at %}{{ post.last_modified_at | date_to_xmlschema }}{% else %}{{ post.date | date_to_xmlschema }}{% endif %}">
+  <meta property="article:published_time" content="{{ post.date | date_to_xmlschema }}">
   {% for post in site.related_posts limit:3 %}
     <meta property="og:see_also" content="{{ post.url | replace:'/index.html','/' | prepend: site.github.url }}">
   {% endfor %}
 {% endif %}
 
-{% if page.categories %}
-  {% for category in page.categories limit:1 %}
+{% if post.categories %}
+  {% for category in post.categories limit:1 %}
   <meta property="article:section" content="{{ category }}">
   {% endfor %}
 {% endif %}
 
-{% if page.tags %}
-  {% for tag in page.tags %}
+{% if post.tags %}
+  {% for tag in post.tags %}
   <meta property="article:tag" content="{{ tag }}">
   {% endfor %}
 {% endif %}
