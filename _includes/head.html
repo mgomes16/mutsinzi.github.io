@@ -12,6 +12,18 @@
 <meta property="og:site_name" content="{{ site.name }}">
 <meta property="og:locale" content="{{ site.locale }}">
 
+{% if site.facebook %}
+  {% if site.facebook.admins %}
+    <meta property="fb:admins" content="{{ site.facebook.admins }}">
+  {% endif %}
+  {% if site.facebook.publisher %}
+    <meta property="article:publisher" content="{{ site.facebook.publisher }}">
+  {% endif %}
+  {% if site.facebook.app_id %}
+    <meta property="fb:app_id" content="{{ site.facebook.app_id }}">
+  {% endif %}
+{% endif %}
+
 
 
 
