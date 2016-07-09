@@ -18,6 +18,7 @@ layout: default
 </a>{% endif %}</p>
 {% include share.html %}
 <span class="meta light small">Posted by {% if page.author %}<span class="author">{{ page.author }}</span>{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span><br/>
+<i class="fa fa-clock-o"></i>
 <span style="font-weight:bold; font-size:14px">{% assign words = content | number_of_words %}
 {% if words < 360 %}
   1 min
