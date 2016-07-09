@@ -11,13 +11,8 @@
     {% endif %}
 
     <meta property="og:url" content="{{ site.github.url }}{{ page.url }}">
-    { if page.title != "home" %}
+    { if page.image %}
     <meta property="og:image" content="{{ site.github.url }}/img/{{ page.image }}" />
-    <meta property="og:image:type" content="image" />
-    <meta property="og:image:width" content="400" />
-    <meta property="og:image:height" content="300" />
-    {% elsif page.title == "home" %}
-    <meta property="og:image" content="{{ site.github.url }}/img/circles.jpeg" />
     <meta property="og:image:type" content="image" />
     <meta property="og:image:width" content="400" />
     <meta property="og:image:height" content="300" />
