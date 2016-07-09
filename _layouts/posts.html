@@ -17,8 +17,14 @@ layout: default
 <p style="margin: 0 !important">{% if page.image-source %}<span style="font-size:14px;">Image Source </span><a style="color:#333333" href="{{page.image-source}}" target="_blank"><i style="font-size:12px" class="fa fa-arrow-right" aria-hidden="true"></i>
 </a>{% endif %}</p>
 {% include share.html %}
-<span class="meta light small">Posted by {% if page.author %}<span class="author">{{ page.author }}</span>{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
-
+<span class="meta light small">Posted by {% if page.author %}<span class="author">{{ page.author }}</span>{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span><br/>
+<span style="font-weight:bold; font-size:14px">{% assign words = content | number_of_words %}
+{% if words < 360 %}
+  1 min
+{% else %}
+  {{ words | divided_by: 180}} mins
+{% endif %} read
+</span>
 <hr>
 <div class="post-text">
 
