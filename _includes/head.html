@@ -4,26 +4,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-<meta property="og:title" content="{% if post.title %}{{ post.title | smartify | strip_html | strip_newlines | escape_once }}{% else %}{{ site.name }}{% endif %}">
-<meta property="og:type" content="{% if post.date %}article{% else %}website{% endif %}">
-<meta property="og:url" content="{{ post.url | replace:'/index.html','/' | prepend: site.github.url }}">
-<meta property="og:image" content="{% if post.image %}{{ post.image | prepend: site.github.url }}{% else %}{{ site.logo | prepend: site.github.url }}{% endif %}">
-<meta property="og:description" content="{% if post.subtitle %}{{ post.subtitle | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
-<meta property="og:site_name" content="{{ site.name }}">
-<meta property="og:locale" content="{{ site.locale }}">
-
-{% if site.facebook %}
-  {% if site.facebook.admins %}
-    <meta property="fb:admins" content="{{ site.facebook.admins }}">
-  {% endif %}
-  {% if site.facebook.publisher %}
-    <meta property="article:publisher" content="{{ site.facebook.publisher }}">
-  {% endif %}
-  {% if site.facebook.app_id %}
-    <meta property="fb:app_id" content="{{ site.facebook.app_id }}">
-  {% endif %}
-{% endif %}
-
 
 
 

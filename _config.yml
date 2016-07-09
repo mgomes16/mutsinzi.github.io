@@ -1,5 +1,4 @@
 markdown: kramdown
-app_id: 1571831709779231
 input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
 hard_wrap: false
 highlighter: rouge
