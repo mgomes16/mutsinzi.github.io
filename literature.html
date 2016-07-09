@@ -27,8 +27,23 @@ title: Books
 
 
   </a>
-  <div class="post-excerpt" style="margin-bottom:30px;"><span class="post_meta_info">{{post.excerpt}}</span></div>
+  <div class="post-excerpt" style="margin-bottom:30px;">
+        <span style="font-size:12px">Posted by {% if post.author %}<span class="author">{{ post.author }}</span>{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</span>
+        <br/>
+        <i class="fa fa-clock-o"></i>
+        <span style="font-weight:bold; font-size:14px">
+        {% assign words = post.content | number_of_words %}
+        {% if words < 360 %}
+          1 min
+        {% else %}
+          {{ words | divided_by: 180}} mins
+        {% endif %} read
+        </span>
+    <span class="post_meta_info">{{post.excerpt}}</span>
   </div>
+  <hr/>
+  </div>
+
 
    {% endif %}
   {% endfor %}
