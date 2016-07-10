@@ -1,0 +1,86 @@
+---
+layout: search
+---
+
+<div class="text-center search">
+<form action="/search.html" method="get">
+
+  <input class="text-center" type="text" id="search-box" name="query">
+  <input type="submit" value="search">
+</form>
+</div>
+
+
+<div class="search-results-container">
+<h3 style="width:inherit; margin: 30px 0">Your search Results</h3>
+<div class="search-results">
+<ul id="search-results"></ul>
+
+
+</div>
+<div class="amazon_ads">
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "mellowviews-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Our Selection";
+amzn_assoc_linkid = "44b1657768e6a3b55ce47fbe6ef9258f";
+amzn_assoc_asins = "0307455920,B00UDDM7K0,B01EQGOW8E,1616202416";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>
+</div>
+</div>
+
+<script>
+  window.store = {
+    {% for post in site.posts %}
+      "{{ post.url | slugify }}": {
+        "title": "{{ post.title | xml_escape }}",
+        "author": "{{ post.author | xml_escape }}",
+        "category": "{{ post.category | xml_escape }}",
+        "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+        "url": "{{ post.url | xml_escape }}"
+      }
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  };
+</script>
+<script src="/js/lunr.min.js"></script>
+<script src="/js/search.js"></script>
+
+<style>
+.search input[id="search-box"]{
+  border: none;
+  border-bottom: #1f1f1f solid 1px;
+
+}
+
+.search input[type="submit"] {
+  background: none;
+  border: none;
+  color: #1f1f1f;
+
+}
+
+
+
+.search-results-container{
+  margin:60px auto;
+  max-width:700px;
+
+}
+
+.amazon_ads{
+  margin: 60px 0px 0px 0px;
+}
+.search-results{
+  padding: 0 15px;
+    border-left: 1px solid #ff475b;
+
+}
+</style>
