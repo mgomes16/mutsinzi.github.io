@@ -17,7 +17,7 @@ Retracing the route that took the biochemist Alberto Granado and medical student
 
 The year is 1952 and two young men with a background in medicine decide to put their schooling on hold and travel across Latin America with the aim to explore, drink as much wine as they can(it clearly appears as such) and to volunteer at the leper colony in Peru. They intend to do this with the help of an old, tired motorcycle.
 
-What begins as a journey of a touristic nature, becomes an exposure to the cold realities of many South American countries in the 1950s. The two men despite being excited about the green, fertile, lush environments that surround them are made uneasy by the level of poverty in the areas they visit, more so because this poverty is a direct result of the exploitation of foreign industrial companies.
+What begins as a journey of a touristic nature, becomes an exposure to the cold realities of many South American countries in the 1950s. The two men despite being excited about the green, fertile, lush environments that surround them are made uneasy by the level of poverty in the areas they visit, more so because this poverty is a direct result of the exploitation of workers done by foreign industrial companies.
 
 > Is it possible to be nostalgic for a world you never knew?
 
