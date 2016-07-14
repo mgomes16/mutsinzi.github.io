@@ -88,7 +88,7 @@ Do checkout his social media channels to support his vision!
 
 <style>
 h2{
-  font-size: 26px;
+  font-size: 26px !important;
 
 }
 </style>
