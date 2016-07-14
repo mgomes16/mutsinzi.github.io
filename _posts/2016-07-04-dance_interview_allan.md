@@ -85,3 +85,10 @@ Do checkout his social media channels to support his vision!
 
 
 {% include mutsinzi.html %}
+
+<style>
+h2{
+  font-size: 26px;
+
+}
+</style>
