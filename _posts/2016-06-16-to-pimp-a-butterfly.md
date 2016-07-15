@@ -6,6 +6,7 @@ subtitle: An album by Kendrick Lamar
 image: kendrick.jpg
 tag: music
 comments: true;
+medium: sound
 image-source: "http://images.complex.com/complex/image/upload/t_article_image/wlsaxs7j9chfzke9qqmi.png"
 ---
 

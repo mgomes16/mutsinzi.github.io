@@ -148,18 +148,25 @@ body{
 
 margin:0 auto;
 padding:0;
-background-color: #f5f5f5;
-
 font-size: 20px;
 font-family: 'Lora', 'Times New Roman', serif;
 }
 
-.container-fluid{
 
+iframe, object, embed {
+max-width: 100%;
+}
+
+.container-fluid{
 
   background-color: #fff;
   padding-bottom:80px;
 
+}
+
+
+.video_wrap{
+  text-align: center;
 }
 .row{
   width: inherit;
@@ -214,18 +221,19 @@ nav img{
   padding: 5px;
   margin-bottom: 1%;
 
-  text-transform: capitalize;
-  font-size: 16px;
-  color: #999;
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #1f1f1f;
+ font-family: 'Lora';
 
-  font-weight: 800;
+  font-weight: 300;
   letter-spacing: 1px;
 
 
 }
 
 .nav a:hover{
-  background-color: #f5f5f5 !important;
+  background-color: #fff !important;
   color: #666 !important;
 }
 
