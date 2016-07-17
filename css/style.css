@@ -269,6 +269,11 @@ ul{
   width: inherit;
   padding:0;
 }
+
+.audio_wrap{
+  max-width:600px;
+  margin: 100px auto;
+}
 .main{
   padding:0 5%;
   margin: 0 auto;
