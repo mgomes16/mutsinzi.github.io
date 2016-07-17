@@ -7,15 +7,15 @@
 
   <div class="content">
     {% for post in site.posts %}
-    {% if post.title contains "Anti" %}
+    {% if post.title contains "M.anifest" %}
     <a href="{{post.url}}">
       <div class="content-overlay"></div>
       <img class="content-image" src="{{site.github.url}}/img/{{post.image}}" >
       <h2>{{post.title}}</h2>
-      <span class="highlight-tag">{% include review.html %}</span>
+      <!-- <span class="highlight-tag">{% include review.html %}</span> -->
       <div class="content-details fadeIn-right">
-        <h3>Anti</h3>
-        <p>Rihanna's 8th studio album</p>
+        <h3>M.anifest</h3>
+        <p>"Beggars don't choose but be picky instead"</p>
       </div>
     </a>
     {% endif %}
