@@ -17,7 +17,7 @@ This book is a reflection of Apollo's thoughts and principles. It is written wit
 
 > The fear of God is the beginning and essence of knowledge
 
-This book focuses tentatively on personal development; recognizing that leading a good life begins with mastery of self is a theme often encountered in 'State of mind'. Apollo doesn't stop there however, he goes on to mention the importance of not only health of mind but also health of body and spirit.
+This book focuses largely on personal development; recognizing that leading a good life begins with mastery of self is a theme often encountered in 'State of mind'. Apollo doesn't stop there however, he goes on to mention the importance of not only health of mind but also health of body and spirit.
 
 The closing chapters of this book propose that the reader increase their physical strength, nurture their ability to think and think deeply, and finally that they have faith which is strengthened mainly through prayer.
 
