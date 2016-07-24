@@ -12,7 +12,7 @@ image-source:
 
 > I guess under the right circumstances, a man will do just about anything.
 
-One word for John Grisham’s legal thriller The Racketeer: transfixing.
+One word for John Grisham’s legal thriller <a  href="https://www.amazon.com/gp/product/0345530578/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345530578&linkCode=as2&tag=mellowviews-20&linkId=a9223475ed54c84eff9d65e5ea1e7fc7" target="_blank">The Racketeer</a>: transfixing.
 
 A few pages into the book that I for so long judged by the cover, I had drawn a list of John Grisham’s twenty four other books but had no intention whatsoever to place this one down. The Racketeer is a work of fiction but its concrete storyline fools one into thinking that the author’s originality is entirely based on his career –being a lawyer himself. Well, it’s not that way.
 
