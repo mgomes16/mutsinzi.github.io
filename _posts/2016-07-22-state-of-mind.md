@@ -13,7 +13,7 @@ image-source:
 
 <a href="http://www.kigalicious.com/#!state-of-mind/g1mhx" target="_blank">State of mind Vol 1</a> is Apollo's first book and comes after he's successfully managed to set up the entertainment website 'Kigalicious' and the online apparel shopping website 'Limita'. With that in mind, I was very interested to read this book because despite his young age, Apollo's mature and determined mindset is turning him into a prolific entrepreneur.
 
-This book is a reflection of Apollo's thoughts and principles. It is written with the aim of sharing with the reader a philosophy that has been pushed forward by some of the world's best thinking mind, that  'As you thinketh, so you become'. The book opens with Apollo's introspective perspective on how wisdom is acquired. He makes a sharp claim that all wisdom begins with acknowledging the source of all wisdom, the Creator.
+This book is a reflection of Apollo's thoughts and principles. It is written with the aim of sharing with the reader a philosophy that has been pushed forward by some of the world's best thinking minds, that  'As you thinketh, so you become'. The book opens with Apollo's introspective perspective on how wisdom is acquired. He makes a sharp claim that all wisdom begins with acknowledging the source of all wisdom, the Creator.
 
 > The fear of God is the beginning and essence of knowledge
 
