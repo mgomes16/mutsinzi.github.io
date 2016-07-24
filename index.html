@@ -25,6 +25,7 @@ image: circles.jpeg
 
         <div class="highlight" style="background-image: url('{{site.github.url}}/img/{{post.image}}')">
 <h1 class="div_content">{{post.title}}</h1>
+<h4 class="text-center">{{post.meta}}</h4>
 {% if {{post.tag}} contains "music" %}{% include music.html %}{% endif %}
 {% if {{post.tag}} contains "literature" %}{% include lit.html %}{% endif %}
 {% if {{post.tag}} contains "film" %}{% include film.html %}{% endif %}
