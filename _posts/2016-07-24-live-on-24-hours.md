@@ -33,7 +33,7 @@ sleep.
 
 Arnold points out that concentration is a power that is necessary to nurture if we are to achieve any particular planned outcome. He suggests that we improve the ability to concentrate by thinking about a subject of our choosing(a subject that preferably is beneficial to oneself) and continuing that thinking for about half an hour during our daily commute to school or work. He mentions also that it is important to allow ourselves the possibility that our minds will wander in the beginning, a possibility which is, he says, very much likely.
 
-Once the individual has enough concentration to commit to any given task and complete it, Arnold then suggests that the individual develop habits that will take up part of their 24hours, habits that contribute in one way or another to their wellbeing. Arnold's suggests that the individual develop a habit of serious reading(if they would like such a thing), find time to seek to understand art and also, a habit he puts much emphasis on, develop their ability to reflect on themselves and their day.
+Once the individual has enough concentration to commit to any given task and complete it, Arnold then suggests that the individual develop habits that will take up part of their 24hours, habits that contribute in one way or another to their wellbeing. Arnold suggests that the individual develop a habit of serious reading(if they would like such a thing), find time to seek to understand art and also, a habit he puts much emphasis on, develop their ability to reflect on themselves and their day.
 
 > We do not reflect. I mean that we do not reflect upon genuinely
 important things; <br/>upon the problem of our happiness, upon the main
