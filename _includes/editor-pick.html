@@ -7,15 +7,15 @@
 
   <div class="content">
     {% for post in site.posts %}
-    {% if post.title contains "M.anifest" %}
+    {% if post.title contains "Coloring" %}
     <a href="{{post.url}}">
       <div class="content-overlay"></div>
-      <img class="content-image" src="{{site.github.url}}/img/{{post.image}}" >
+      <img class="content-image img-responsive" src="{{site.github.url}}/img/{{post.image}}" >
       <h2>{{post.title}}</h2>
-      <!-- <span class="highlight-tag">{% include review.html %}</span> -->
+      <span class="highlight-tag">{% include review.html %}</span>
       <div class="content-details fadeIn-right">
-        <h3>M.anifest</h3>
-        <p>"Beggars don't choose but be picky instead"</p>
+        <h3>Coloring Book</h3>
+        <p>Chance the Rapper's third mixtape</p>
       </div>
     </a>
     {% endif %}
@@ -33,7 +33,7 @@
 
     <div class="content-overlay"></div>
 
-    <img class="content-image" src="{{site.github.url}}/img/{{post.image}}" >
+    <img class="content-image img-responsive" src="{{site.github.url}}/img/{{post.image}}" >
 
     <h2>{{post.title}}</h2>
       <span class="highlight-tag">{% include review.html %}</span>
@@ -53,18 +53,19 @@
 
 
 <div class="col-md-12 col-sm-12 col-xs-12 amazon_ads">
-  <script type="text/javascript">
-  amzn_assoc_placement = "adunit0";
-  amzn_assoc_search_bar = "true";
-  amzn_assoc_tracking_id = "mellowviews-20";
-  amzn_assoc_ad_mode = "manual";
-  amzn_assoc_ad_type = "smart";
-  amzn_assoc_marketplace = "amazon";
-  amzn_assoc_region = "US";
-  amzn_assoc_title = "On the table";
-  amzn_assoc_linkid = "44b1657768e6a3b55ce47fbe6ef9258f";
-  amzn_assoc_asins = "0307455920,B00UDDM7K0,B01EQGOW8E,1616202416";
-  </script>
+    <script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "mellowviews-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "On the table";
+amzn_assoc_linkid = "7932076c0b2f0ee2c54c532b869f2e96";
+amzn_assoc_asins = "B01HY0OG12,B00OHX7TK0,B01EQGOW8E,1616202416";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
   <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 </div>
 
@@ -200,7 +201,7 @@
 }
 
 .content img{
-  height: 300px;
+  height: 400px;
 }
 
 .content:hover .content-details{
