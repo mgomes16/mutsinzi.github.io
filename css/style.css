@@ -12,6 +12,7 @@
 
 @import url(http://fonts.googleapis.com/css?family='Playfair Display');
 @import 'https://fonts.googleapis.com/css?family=Playfair+Display';
+@import 'https://fonts.googleapis.com/css?family=Anton|Oxygen';
 
 
 @media only screen and (max-width: 768px){
@@ -315,7 +316,11 @@ background-position: center;
 }
 
 
+.index-heading{
 
+  font-family: 'Oxygen';
+  text-transform: uppercase;
+}
 
 
 
