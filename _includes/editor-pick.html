@@ -7,15 +7,15 @@
 
   <div class="content">
     {% for post in site.posts %}
-    {% if post.title contains "Coloring" %}
+    {% if post.title contains "Beasts" %}
     <a href="{{post.url}}">
       <div class="content-overlay"></div>
       <img class="content-image img-responsive" src="{{site.github.url}}/img/{{post.image}}" >
       <h2>{{post.title}}</h2>
       <span class="highlight-tag">{% include review.html %}</span>
       <div class="content-details fadeIn-right">
-        <h3>Coloring Book</h3>
-        <p>Chance the Rapper's third mixtape</p>
+        <h3>Beasts of No Nation</h3>
+        <p>A film by Cary Joji Fukunaga </p>
       </div>
     </a>
     {% endif %}
