@@ -6,7 +6,7 @@ subtitle: A film by Cary Joji Fukunaga
 tag: film
 comments: true;
 image: beasts.jpg
-image-source: http://2.bp.blogspot.com/-vbPzc4kSAnI/VhCjrmT8vgI/AAAAAAAAMvE/ibbxmS6xwAM/s1600/idris-elba-beasts-of-no-nation-trailer-2-01.jpg
+image-source: http://medienoderso.de/wp-content/uploads/2015/10/beasts-of-no-nation-netflix.jpg
 ---
 
 > I just want to be happy in this life - Agu
