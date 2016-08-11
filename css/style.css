@@ -244,6 +244,159 @@ ul{
   list-style-type: none;
 }
 
+/*editor-pick*/
+@media only screen and (max-width: 350px ){
+  .content h2{
+    left:10% !important;
+  }
+
+}
+
+@media only screen and (min-width:350px){
+  .amazon_ads{
+    height:350px;
+  }
+}
+
+@media only screen and (max-width: )
+
+.editor-pick-rule{
+  width:100% !important;
+}
+
+
+.title{
+  color: #333;
+  width: 100%;
+  font-family:'Lora';
+  font-size: 14px;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.content {
+  position: relative;
+  <!-- width: 90%; -->
+  max-width: 400px;
+  margin: 0 auto 30px auto;
+  background-image: url('{{site.github.url}}/img/{{post.image}}');
+  background-position: center center;
+  height:250px;
+  overflow: hidden;
+}
+
+.content h2{
+  position: absolute;
+  z-index: 100;
+  top:100px;
+  left:30%;
+  color:#fff;
+  font-family:'Oswold';
+
+}
+
+.content h3{
+  width: 100%;
+
+  text-align:center;
+}
+
+
+
+.content .content-overlay {
+  background: rgba(0,0,0,0.7);
+  position: absolute;
+  height: 99%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  opacity: 0;
+
+  -webkit-transition: all 0.4s ease-in-out 0s;
+  -moz-transition: all 0.4s ease-in-out 0s;
+  transition: all 0.4s ease-in-out 0s;
+}
+
+.content:hover h2{
+  display: none;
+
+}
+
+.highlight-tag{
+  display: none;
+}
+.content:hover .highlight-tag{
+  display: block;
+}
+.content:hover .content-overlay{
+  opacity: 1;
+}
+
+.content-image{
+  max-width: 100%;
+  position: absolute;
+}
+
+.content-details {
+  position: absolute;
+  text-align: center;
+  padding-left: 1em;
+  padding-right: 1em;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  opacity: 0;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  -moz-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+.content img{
+  height: 400px;
+}
+
+.content:hover .content-details{
+  top: 50%;
+  left: 50%;
+  opacity: 1;
+}
+
+.content-details h3{
+  color: #fff;
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  margin-bottom: 0.5em;
+  text-transform: uppercase;
+}
+
+.content-details p{
+  color: #fff;
+  font-size: 0.8em;
+}
+
+.fadeIn-bottom{
+  top: 80%;
+}
+
+.fadeIn-top{
+  top: 20%;
+}
+
+.fadeIn-left{
+  left: 20%;
+}
+
+.fadeIn-right{
+  left: 80%;
+}
+
+/*end editor-pick*/
 
 
 
