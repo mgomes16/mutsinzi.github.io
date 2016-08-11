@@ -277,10 +277,9 @@ ul{
 
 .content {
   position: relative;
-  <!-- width: 90%; -->
-  max-width: 400px;
+
   margin: 0 auto 30px auto;
-  background-image: url('{{site.github.url}}/img/{{post.image}}');
+
   background-position: center center;
   height:250px;
   overflow: hidden;
