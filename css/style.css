@@ -745,10 +745,10 @@ footer .copyright{
 
 color: #333333;
 text-align: center;
-	font-weight:lighter;
-	font-size:10px;
-
-	margin:0 10px;
+font-weight:lighter;
+font-size:10px;
+font-family: helvetica;
+margin:0 10px;
 
 }
 
