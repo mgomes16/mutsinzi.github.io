@@ -27,6 +27,7 @@ image: circles.jpeg
 <h1 class="div_content">{{post.title}}</h1>
 <h4 class="text-center">{{post.meta}}</h4>
 {% if {{post.tag}} contains "music" %}{% include music.html %}{% endif %}
+{% if {{post.tag}} contains "opinion" %}{% include opinion.html %}{% endif %}
 {% if {{post.tag}} contains "literature" %}{% include lit.html %}{% endif %}
 {% if {{post.tag}} contains "film" %}{% include film.html %}{% endif %}
 {% if {{post.tag}} contains "poetry" %}{% include poetry.html %}{% endif %}

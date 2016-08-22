@@ -5,7 +5,7 @@ title: Hiphop can never die
 subtitle: In defence of a global culture
 image: hiphop.jpg
 comments: true
-tag: music
+tag: opinion
 image-source: http://wallpaperus.org/wallpapers/03/104/hip-hop-1920x1080-wallpaper-1653063.jpg
 ---
 
