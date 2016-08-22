@@ -1,5 +1,6 @@
 ---
 layout: posts
+author: Mutsinzi
 title: Hiphop can never die
 subtitle: In defence of a global culture
 image: hiphop.jpg
