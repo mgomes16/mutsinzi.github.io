@@ -236,6 +236,9 @@ nav img{
 .nav a:hover{
   background-color: #fff !important;
   color: #666 !important;
+
+
+
 }
 
 ul{
@@ -275,6 +278,10 @@ ul{
   text-align: center;
 }
 
+.editor-pick-wrapper{
+  background-color:#fafafa;
+  padding: 80px  80px 80px;
+}
 
 .content {
   position: relative;
@@ -758,6 +765,9 @@ margin:0 10px;
   font-size: 16px;
 }
 
+.about-us .logo-img{
+  border-radius: 50%;
+}
 .about-us .col-md-12{
   padding:0;
 }
