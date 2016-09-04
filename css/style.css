@@ -287,7 +287,7 @@ ul{
   position: relative;
 
   margin: 0 auto 30px auto;
-
+  border-radius: 5px;
   background-position: center center;
   height:250px;
   overflow: hidden;
@@ -571,7 +571,7 @@ font-weight: 300;
 color:#fff;
 height: 200px;
 width: 100%;
-
+border-radius: 5px;
 background-position: left;
 background-size: cover;
 
