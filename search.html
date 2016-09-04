@@ -6,7 +6,7 @@ layout: search
 <form action="/search.html" method="get">
 
   <input class="text-center" type="text" id="search-box" name="query">
-  <input type="submit" value="search">
+  <button type="submit" class="fa fa-search"></button>
 </form>
 </div>
 
@@ -52,35 +52,3 @@ amzn_assoc_asins = "0307455920,B00UDDM7K0,B01EQGOW8E,1616202416";
 </script>
 <script src="/js/lunr.min.js"></script>
 <script src="/js/search.js"></script>
-
-<style>
-.search input[id="search-box"]{
-  border: none;
-  border-bottom: #1f1f1f solid 1px;
-
-}
-
-.search input[type="submit"] {
-  background: none;
-  border: none;
-  color: #1f1f1f;
-
-}
-
-
-
-.search-results-container{
-  margin:60px auto;
-  max-width:700px;
-
-}
-
-.amazon_ads{
-  margin: 60px 0px 0px 0px;
-}
-.search-results{
-  padding: 0 15px;
-    border-left: 1px solid #ff475b;
-
-}
-</style>

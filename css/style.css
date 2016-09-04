@@ -247,6 +247,59 @@ ul{
   list-style-type: none;
 }
 
+/*search*/
+.search h3{
+  width: 100%;
+}
+
+
+.search-results-container{
+  margin:60px auto 0 auto;
+  max-width:700px;
+
+}
+
+.search form{
+  text-align: center;
+
+}
+
+.search input{
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.search button{
+  background: none;
+  border:none;
+}
+
+.amazon_ads{
+  margin: 60px 0px 0px 0px;
+}
+.search-results{
+  padding: 0 15px;
+    border-left: 1px solid #ff475b;
+
+}
+
+.search input{
+  text-align: center;
+  margin: 40px 0px 30px 0px;
+}
+
+
+.search button{
+  border: none;
+  background: transparent;
+  margin-left: -40px;
+}
+
+.search button:hover{
+  cursor: pointer;
+}
+
+
 /*editor-pick*/
 @media only screen and (max-width: 350px ){
   .content h2{
