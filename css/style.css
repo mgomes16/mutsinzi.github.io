@@ -517,6 +517,7 @@ ul{
 font-size: 16px;
 font-weight: 300;
 color:#fff;
+borer-radius: 5px;
 background-position: center;
   background-size: cover;
   height:500px ;
