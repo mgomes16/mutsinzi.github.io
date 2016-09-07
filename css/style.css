@@ -87,7 +87,7 @@
 
 
 @media only screen and (min-width: 1170px){
-body{
+.container-fluid{
   width: 1080px;
   margin: 0 auto !important;
 }
@@ -95,7 +95,7 @@ body{
 }
 
 @media only screen and (min-width:2000px){
-  body{
+  .container-fluid{
     width:1768px;
     margin: 0 auto !important;
   }
