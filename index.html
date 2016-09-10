@@ -79,19 +79,19 @@ image: circles.jpeg
 </div>
 
 {% if paginator.total_pages > 1 %}
-<div class="pagination">
+<div class="pagination text-center">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.github.url }}">&laquo; Prev</a>
+    <a  class=" fa fa-arrow-circle-left fa-2x" href="{{ paginator.previous_page_path | prepend: site.github.url }}"></a>
   {% else %}
-    <span>&laquo; Prev</span>
+    <span  class="fa fa-arrow-circle-left fa-2x"></span>
   {% endif %}
 
 
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.github.url}}">Next &raquo;</a>
+    <a  class="fa fa-arrow-circle-right fa-2x" href="{{ paginator.next_page_path | prepend: site.github.url}}"></a>
   {% else %}
-    <span>Next &raquo;</span>
+    <span class="fa fa-arrow-circle-right fa-2x"></span>
   {% endif %}
 </div>
 {% endif %}
