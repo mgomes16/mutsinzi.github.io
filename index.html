@@ -50,8 +50,14 @@ image: circles.jpeg
     {% else %}
       {{ words | divided_by: 180}} mins
   {% endif %} read
-  </span>
-  <span class="post_meta_info">{{post.excerpt}}</span>
+  </span><br/>
+
+        {% if post.excerpt %}
+
+        <span class="post_meta_info">{{post.excerpt}}</span>
+
+
+        {% endif %}
 
 </div>
 <hr>
