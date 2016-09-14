@@ -5,6 +5,7 @@ title: The Weight of Heaven
 comments: true
 tag: Literature
 image: atlas.jpg
+subtitle: A novel by Thrity Umrigar
 image-source: hhttp://i.imgur.com/K5mbuR7.jpg
 ---
 
