@@ -6,7 +6,7 @@ comments: true
 tag: Literature
 image: atlas.jpg
 subtitle: A novel by Thrity Umrigar
-image-source: hhttp://i.imgur.com/K5mbuR7.jpg
+image-source: http://i.imgur.com/K5mbuR7.jpg
 ---
 
 > But that’s the problem with paradise. Nothing quite attracts the serpent like it.
