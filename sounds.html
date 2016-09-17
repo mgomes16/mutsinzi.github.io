@@ -19,6 +19,7 @@ layout: default
         <div class="highlight" style="background-image: url('{{site.github.url}}/img/{{post.image}}')">
 <h1 class="div_content">{{post.title}}</h1>
 {% if {{post.tag}} contains "music" %}{% include music.html %}{% endif %}
+{% if {{post.tag}} contains "opinion" %}{% include opinion.html %}{% endif %}
 {% if {{post.tag}} contains "literature" %}{% include lit.html %}{% endif %}
 {% if {{post.tag}} contains "film" %}{% include film.html %}{% endif %}
 {% if {{post.tag}} contains "poetry" %}{% include poetry.html %}{% endif %}
@@ -41,9 +42,14 @@ layout: default
     {% else %}
       {{ words | divided_by: 180}} mins
   {% endif %} read
-  </span>
-  <span class="post_meta_info">{{post.excerpt}}</span>
+  </span><br/>
 
+        {% if post.excerpt %}
+
+        <span class="post_meta_info">{{post.excerpt}}</span>
+
+
+        {% endif %}
 </div>
 <hr>
 
