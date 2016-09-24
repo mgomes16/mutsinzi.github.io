@@ -156,7 +156,7 @@ font-family: helvetica, 'Times New Roman', serif;
 
 iframe, object, embed {
 max-width: 100%;
-border-radius: 10px;
+
 }
 
 .sound_iframe{
@@ -172,7 +172,13 @@ border-radius: 10px;
 
 
 .video_wrap{
-  text-align: center;
+  text-align: left;
+
+}
+
+.film_details li{
+  font-size: 13px;
+  color: #a8a8a8;
 }
 
 .poetry-wrapper{
@@ -368,9 +374,10 @@ ul{
   position: absolute;
   z-index: 100;
   top:100px;
-  left:30%;
+  left:5%;
   color:#fff;
-  font-family:'Oswold';
+  font-family:helvetica;
+  text-transform: uppercase;
 
 }
 
@@ -520,7 +527,7 @@ ul{
 .post-container{
 
   font-family: helvetica, 'Times New Roman', serif;
-  font-size: 20px;
+  font-size: 16px;
   margin: 0 auto;
   padding: 30px 0 0 0;
 
@@ -731,7 +738,7 @@ h1, h3{
 
 .post-text a{
   color: #ff475b;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .highlight-heading{

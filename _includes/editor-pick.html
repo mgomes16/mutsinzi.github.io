@@ -8,15 +8,15 @@
 
   <div class="content">
     {% for post in site.posts %}
-    {% if post.title contains "An ode" %}
+    {% if post.title contains "A Boy" %}
     <a href="{{post.url}}">
       <div class="content-overlay"></div>
       <img class="content-image img-responsive" src="{{site.github.url}}/img/{{post.image}}" >
       <h2>{{post.title}}</h2>
       <span class="highlight-tag">{% include review.html %}</span>
       <div class="content-details fadeIn-right">
-        <h3>College Dropout by Kanye West</h3>
-        <p> An ode to the College Dropout </p>
+        <h3>A Boy from Rwanda</h3>
+        <p> A documentary </p>
       </div>
     </a>
     {% endif %}
